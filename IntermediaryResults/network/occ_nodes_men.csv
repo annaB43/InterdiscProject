@@ -1,0 +1,455 @@
+id,label,occ_field,weighted_avg_income
+2200,Postsecondary Teachers,"Education, Training, and Library",69779.82274513232
+7200,Automotive Service Technicians and Mechanics,"Installation, Maintenance, and Repair",34184.17497781752
+4965,"Sales and Related Workers, All Other",Sales and Related,44217.18630686831
+5810,Data Entry Keyers,Office and Administrative Support,33101.78283174136
+2310,Elementary and Middle School Teachers,"Education, Training, and Library",52798.98162403808
+2340,Other Teachers and Instructors,"Education, Training, and Library",38151.32751232066
+2750,"Musicians, Singers, and Related Workers","Arts, Design, Entertainment, Sports, and Media",29253.03392347336
+3130,Registered Nurses,Healthcare Practitioners and Technicians,75549.98622817456
+4820,"Securities, Commodities, and Financial Services Sales Agents",Sales and Related,112268.12619626966
+6200,First-Line Supervisors of Construction Trades and Extraction Workers,Construction,52986.93874244505
+9130,Driver/Sales Workers and Truck Drivers,Transportation and Material Moving,38524.54682460894
+310,Food Service and Lodging Managers,"Management in Business, Science, and Arts",45304.77694282507
+9620,"Laborers and Freight, Stock, and Material Movers, Hand",Transportation and Material Moving,27017.33995605951
+350,Medical and Health Services Managers,"Management in Business, Science, and Arts",97692.42013653283
+1820,Psychologists,"Life, Physical, and Social Science",64773.22762516806
+3310,Dental Hygienists,Healthcare Practitioners and Technicians,65214.65966850678
+3010,Dentists,Healthcare Practitioners and Technicians,132329.20478131936
+5860,"Office Clerks, General",Office and Administrative Support,32026.545828702438
+860,Insurance Underwriters,Financial Specialists,87796.73451616496
+4850,"Sales Representatives, Wholesale and Manufacturing",Sales and Related,61998.56865945008
+3820,Police Officers and Detectives,Protective Service,69870.06026592174
+4720,Cashiers,Sales and Related,19927.519063207033
+430,"Managers, nec (including Postmasters)","Management in Business, Science, and Arts",79391.86270577816
+5700,Secretaries and Administrative Assistants,Office and Administrative Support,45804.98018464807
+620,"Human Resources, Training, and Labor Relations Specialists",Business Operations Specialists,69762.47625670375
+6765,"Construction workers, nec",Construction,31218.35331227977
+3050,Pharmacists,Healthcare Practitioners and Technicians,112124.79836793622
+2330,Special Education Teachers,"Education, Training, and Library",49009.59119205608
+4700,First-Line Supervisors of Sales Workers,Sales and Related,56291.92071222806
+5610,"Shipping, Receiving, and Traffic Clerks",Office and Administrative Support,32418.664485146546
+7010,"Computer, Automated Teller, and Office Machine Repairers","Installation, Maintenance, and Repair",42867.45731424841
+6600,"Helpers, Construction Trades",Construction,23293.765853066216
+5330,Loan Interviewers and Clerks,Office and Administrative Support,41628.94258787974
+1360,Civil Engineers,Architecture and Engineering,85649.31352579664
+4220,Janitors and Building Cleaners,Building and Grounds Cleaning and Maintenance,25913.51006571507
+540,"Claims Adjusters, Appraisers, Examiners, and Investigators",Business Operations Specialists,59987.33851863991
+3060,Physicians and Surgeons,Healthcare Practitioners and Technicians,201325.74735105428
+2300,Preschool and Kindergarten Teachers,"Education, Training, and Library",35415.364789108506
+1000,Computer Scientists and Systems Analysts/Network systems Analysts/Web Developers,Computer and Mathematical,76555.18251022155
+2430,Librarians,"Education, Training, and Library",46664.442417790044
+4230,Maids and Housekeeping Cleaners,Building and Grounds Cleaning and Maintenance,22336.40038141471
+230,Education Administrators,"Management in Business, Science, and Arts",79868.3470993917
+4130,"Food preparation and serving related workers, nec",Food Preparation and Serving,14257.354738349852
+4110,Waiters and Waitresses,Food Preparation and Serving,20701.50311897225
+950,"Financial Specialists, nec",Financial Specialists,73513.90525984192
+8320,Sewing Machine Operators,Production,25119.432353200973
+7040,"Electric Motor, Power Tool, and Related Repairers","Installation, Maintenance, and Repair",44602.216198225135
+4760,Retail Salespersons,Sales and Related,40195.091485464545
+6700,Elevator Installers and Repairers,Construction,73127.22169441848
+5550,Postal Service Mail Carriers,Office and Administrative Support,52087.5411295248
+7700,First-Line Supervisors of Production and Operating Workers,Production,57093.395863617785
+7315,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Installation, Maintenance, and Repair",42574.73665535585
+5600,"Production, Planning, and Expediting Clerks",Office and Administrative Support,52999.67720739955
+2630,Designers,"Arts, Design, Entertainment, Sports, and Media",52488.832264593904
+2100,"Lawyers, and judges, magistrates, and other judicial workers",Legal,149284.49502615773
+6320,"Construction equipment operators except paving, surfacing, and tamping equipment operators",Construction,43656.27443655117
+4510,"Hairdressers, Hairstylists, and Cosmetologists",Personal Care and Service,27127.28298740573
+2540,Teacher Assistants,"Education, Training, and Library",25829.039173994654
+3650,"Medical Assistants and Other Healthcare Support Occupations, nec",Healthcare Support,35340.73835285844
+9050,Flight Attendants and Transportation Workers and Attendants,Transportation and Material Moving,50018.85374027037
+2010,Social Workers,Community and Social Services,47320.535454081
+8220,"Metal workers and plastic workers, nec",Production,39567.178031572446
+150,Purchasing Managers,"Management in Business, Science, and Arts",82828.23657749819
+4810,Insurance Sales Agents,Sales and Related,67754.19140512506
+9610,Cleaners of Vehicles and Equipment,Transportation and Material Moving,23055.112549274156
+4350,Nonfarm Animal Caretakers,Personal Care and Service,18433.677494338943
+9520,"Dredge, Excavating, and Loading Machine Operators",Transportation and Material Moving,32922.57303148751
+9100,Bus and Ambulance Drivers and Attendants,Transportation and Material Moving,32313.43219106048
+5800,Computer Operators,Office and Administrative Support,45663.52378011324
+4240,Pest Control Workers,Building and Grounds Cleaning and Maintenance,36916.86894373175
+5400,Receptionists and Information Clerks,Office and Administrative Support,28139.74375771338
+9650,Pumping Station Operators,Transportation and Material Moving,35138.50609509172
+5020,Telephone Operators,Office and Administrative Support,34354.56516901742
+8340,Shoe Machine Operators and Tenders,Production,29822.0237943681
+8600,"Power Plant Operators, Distributors, and Dispatchers",Production,79603.05344806527
+8140,"Welding, Soldering, and Brazing Workers",Production,39760.32769579307
+2910,Photographers,"Arts, Design, Entertainment, Sports, and Media",31679.61353565052
+800,Accountants and Auditors,Financial Specialists,78726.82884242624
+9140,Taxi Drivers and Chauffeurs,Transportation and Material Moving,24039.790999475837
+3930,Security Guards and Gaming Surveillance Officers,Protective Service,31577.74424832856
+2320,Secondary School Teachers,"Education, Training, and Library",52953.59765514016
+5940,"Office and administrative support workers, nec",Office and Administrative Support,46457.6394370461
+2810,"Editors, News Analysts, Reporters, and Correspondents","Arts, Design, Entertainment, Sports, and Media",54641.11835468592
+8030,Machinists,Production,43936.1909173293
+9720,Refuse and Recyclable Material Collectors,Transportation and Material Moving,27377.344564203588
+6240,"Carpet, Floor, and Tile Installers and Finishers",Construction,23560.123872762153
+3030,Dieticians and Nutritionists,Healthcare Practitioners and Technicians,58907.299410327054
+6230,Carpenters,Construction,27237.014358051485
+5120,"Bookkeeping, Accounting, and Auditing Clerks",Office and Administrative Support,39483.41723135707
+4000,Chefs and Cooks,Food Preparation and Serving,22806.929654384585
+7360,Millwrights,"Installation, Maintenance, and Repair",56780.74333716356
+5260,File Clerks,Office and Administrative Support,28121.834709537823
+1540,Drafters,Architecture and Engineering,49726.41802152462
+6330,"Drywall Installers, Ceiling Tile Installers, and Tapers",Construction,27358.8710339412
+6210,Boilermakers,Construction,49811.74797920345
+4650,"Personal Care and Service Workers, All Other",Personal Care and Service,21855.82360019775
+5540,Postal Service Clerks,Office and Administrative Support,51191.118312576225
+5850,"Mail Clerks and Mail Machine Operators, Except Postal Service",Office and Administrative Support,27726.631386284644
+7950,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",Production,32943.87393306752
+4030,Food Preparation Workers,Food Preparation and Serving,17331.02916243078
+8910,"Etchers, Engravers, and Lithographers",Production,30140.130749112814
+4600,Childcare Workers,Personal Care and Service,26989.20370934352
+730,Other Business Operations and Management Specialists,Business Operations Specialists,76665.19083048419
+6400,Insulation Workers,Construction,35606.84559290269
+8730,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",Production,39979.32998233954
+9999,NIU,No Occupation,0.0
+3510,Medical Records and Health Information Technicians,Healthcare Practitioners and Technicians,41440.869693631306
+7330,Industrial and Refractory Machinery Mechanics,"Installation, Maintenance, and Repair",48055.29596032088
+8800,Packaging and Filling Machine Operators and Tenders,Production,29456.71015734864
+3500,Licensed Practical and Licensed Vocational Nurses,Healthcare Practitioners and Technicians,53701.661315326506
+8965,Other production workers including semiconductor processors and cooling and freezing equipment operators,Production,37927.87029411722
+4010,First-Line Supervisors of Food Preparation and Serving Workers,Food Preparation and Serving,30540.733941587467
+5310,"Interviewers, Except Eligibility and Loan",Office and Administrative Support,34246.916576673524
+5530,"Meter Readers, Utilities",Office and Administrative Support,36309.287250251735
+6220,"Brickmasons, Blockmasons, and Stonemasons",Construction,29532.87135362324
+2760,"Entertainers and Performers, Sports and Related Workers, All Other","Arts, Design, Entertainment, Sports, and Media",22677.993826868562
+5100,Bill and Account Collectors,Office and Administrative Support,36147.6814129085
+7140,Aircraft Mechanics and Service Technicians,"Installation, Maintenance, and Repair",57256.84273755626
+5820,Word Processors and Typists,Office and Administrative Support,31566.16866837348
+3950,"Law enforcement workers, nec",Protective Service,30087.44268325033
+8750,Jewelers and Precious Stone and Metal Workers,Production,32369.182380637005
+7000,"First-Line Supervisors of Mechanics, Installers, and Repairers","Installation, Maintenance, and Repair",60065.13831887001
+7750,"Assemblers and Fabricators, nec",Production,34198.04096296712
+1010,Computer Programmers,Computer and Mathematical,73498.32865739064
+7720,"Electrical, Electronics, and Electromechanical Assemblers",Production,31839.79934073298
+6100,Fishing and hunting workers,"Farming, Fisheries, and Forestry",21963.40045112308
+6355,Electricians,Construction,48931.6869160245
+410,"Property, Real Estate, and Community Association Managers","Management in Business, Science, and Arts",67091.46161933249
+7340,"Maintenance and Repair Workers, General","Installation, Maintenance, and Repair",42225.75123963234
+1800,Economists and market researchers,"Life, Physical, and Social Science",103458.44454877464
+1430,"Industrial Engineers, including Health and Safety",Architecture and Engineering,78343.6776741723
+5620,Stock Clerks and Order Fillers,Office and Administrative Support,24889.335765322543
+8930,"Paper Goods Machine Setters, Operators, and Tenders",Production,41930.662040689596
+6530,Structural Iron and Steel Workers,Construction,42444.777611225356
+6050,"Agricultural workers, nec","Farming, Fisheries, and Forestry",23702.178526138418
+7020,Radio and Telecommunications Equipment Installers and Repairers,"Installation, Maintenance, and Repair",50161.314834601595
+5160,Bank Tellers,Office and Administrative Support,25632.789946969096
+4920,Real Estate Brokers and Sales Agents,Sales and Related,61564.9262918142
+9750,"Material moving workers, nec",Transportation and Material Moving,41001.49383219426
+3160,Physical Therapists,Healthcare Practitioners and Technicians,68984.95789459276
+1740,Environmental Scientists and Geoscientists,"Life, Physical, and Social Science",80195.72464964603
+4250,Grounds Maintenance Workers,Building and Grounds Cleaning and Maintenance,20123.02534222538
+6440,"Pipelayers, Plumbers, Pipefitters, and Steamfitters",Construction,43087.28751248873
+6820,"Earth Drillers, Except Oil and Gas",Extraction,55995.08171519111
+8740,"Inspectors, Testers, Sorters, Samplers, and Weighers",Production,47758.84889136198
+1960,"Life, Physical, and Social Science Technicians, nec","Life, Physical, and Social Science",44963.22371408917
+5420,"Information and Record Clerks, All Other",Office and Administrative Support,43458.50058856442
+1300,"Architects, Except Naval",Architecture and Engineering,75958.94120969147
+3710,First-Line Supervisors of Police and Detectives,Protective Service,77058.06686126911
+4210,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",Building and Grounds Cleaning and Maintenance,31730.454868704208
+2040,Clergy,Community and Social Services,44120.964199254515
+1610,Biological Scientists,"Life, Physical, and Social Science",69521.87884219336
+4950,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Sales and Related,20731.519014750338
+2600,Artists and Related Workers,"Arts, Design, Entertainment, Sports, and Media",35416.27714814382
+5920,Statistical Assistants,Office and Administrative Support,55445.26406677384
+205,"Farmers, Ranchers, and Other Agricultural Managers","Management in Business, Science, and Arts",18130.402069107433
+7220,Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics,"Installation, Maintenance, and Repair",48014.92213382225
+8550,"Woodworkers including model makers and patternmakers, nec",Production,23973.60737143624
+120,Financial Managers,"Management in Business, Science, and Arts",113593.74400566297
+2740,Dancers and Choreographers,"Arts, Design, Entertainment, Sports, and Media",41601.981133265086
+8720,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",Production,35881.235769525825
+8100,"Molders and Molding Machine Setters, Operators, and Tenders, Metal and Plastic",Production,37686.83011639813
+1460,Mechanical Engineers,Architecture and Engineering,85288.81071781353
+6130,Logging Workers,"Farming, Fisheries, and Forestry",25181.767456756817
+6520,"Sheet Metal Workers, metal-working",Construction,41852.21016249042
+1220,Operations Research Analysts,Computer and Mathematical,77926.86661692528
+4040,Bartenders,Food Preparation and Serving,26540.032857222006
+5520,Dispatchers,Office and Administrative Support,43904.63133151115
+3150,Occupational Therapists,Healthcare Practitioners and Technicians,67761.11166024947
+4060,"Counter Attendant, Cafeteria, Food Concession, and Coffee Shop",Food Preparation and Serving,10771.919102979346
+9630,Machine Feeders and Offbearers,Transportation and Material Moving,27444.736691613994
+3410,Health Diagnosing and Treating Practitioner Support Technicians,Healthcare Practitioners and Technicians,39178.72102556297
+8640,"Chemical Processing Machine Setters, Operators, and Tenders",Production,49391.129011661134
+30,"Managers in Marketing, Advertising, and Public Relations","Management in Business, Science, and Arts",104863.87048550394
+9030,Aircraft Pilots and Flight Engineers,Transportation and Material Moving,116117.79000053086
+8530,"Sawing Machine Setters, Operators, and Tenders, Wood",Production,26133.61680641518
+6660,Construction and Building Inspectors,Construction,49002.76096933024
+7240,Small Engine Mechanics,"Installation, Maintenance, and Repair",29303.30214078549
+3940,Crossing Guards,Protective Service,17545.060993845964
+4840,"Sales Representatives, Services, All Other",Sales and Related,73953.84494398319
+1560,Surveying and Mapping Technicians,Technicians,46189.43006804192
+5000,First-Line Supervisors of Office and Administrative Support Workers,Office and Administrative Support,60001.59664048552
+5110,Billing and Posting Clerks,Office and Administrative Support,45999.21337782704
+3640,Dental Assistants,Healthcare Support,31348.81378323059
+8230,"Bookbinders, Printing Machine Operators, and Job Printers",Production,37308.85668350861
+1410,Electrical and Electronics Engineers,Architecture and Engineering,90697.50775554478
+8450,Upholsterers,Production,23142.40001865773
+8650,"Crushing, Grinding, Polishing, Mixing, and Blending Workers",Production,40087.47311916253
+8420,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Production,28873.829995746913
+5350,Correspondent clerks and order clerks,Office and Administrative Support,34693.09520017707
+6420,"Painters, Construction and Maintenance",Construction,23176.250078813668
+7810,"Butchers and Other Meat, Poultry, and Fish Processing Workers",Production,29884.93145220554
+4800,Advertising Sales Agents,Sales and Related,69251.95683272519
+7800,Bakers,Production,26353.910755486777
+1910,Biological Technicians,"Life, Physical, and Social Science",46390.49213148
+2000,Counselors,Community and Social Services,43538.27756924883
+5250,"Eligibility Interviewers, Government Programs",Office and Administrative Support,53676.457646225186
+710,Management Analysts,Business Operations Specialists,85455.71553333245
+3540,"Healthcare Practitioners and Technical Occupations, nec",Healthcare Practitioners and Technicians,61506.811408315305
+2140,Paralegals and Legal Assistants,Legal,49951.108065050335
+9000,Supervisors of Transportation and Material Moving Workers,Transportation and Material Moving,56664.27760394416
+8810,Painting Workers and Dyers,Production,35335.68065096148
+8830,Photographic Process Workers and Processing Machine Operators,Production,47388.94014336745
+4750,Parts Salespersons,Sales and Related,37410.228347066615
+3740,Firefighters,Protective Service,67826.87887128293
+2850,Writers and Authors,"Arts, Design, Entertainment, Sports, and Media",43767.52317382836
+8620,Water Wastewater Treatment Plant and System Operators,Production,53185.67845285888
+3530,"Health Technologists and Technicians, nec",Healthcare Practitioners and Technicians,50069.94570351389
+6300,"Paving, Surfacing, and Tamping Equipment Operators",Construction,30123.764606211298
+5410,Reservation and Transportation Ticket Agents and Travel Clerks,Office and Administrative Support,39391.407445752586
+5510,Couriers and Messengers,Office and Administrative Support,35433.992420440394
+9640,"Packers and Packagers, Hand",Transportation and Material Moving,23874.982950219954
+3300,Clinical Laboratory Technologists and Technicians,Healthcare Practitioners and Technicians,49687.60331069829
+8710,Cutting Workers,Production,31847.2175868916
+1550,"Engineering Technicians, Except Drafters",Technicians,57611.09560291518
+7100,"Electrical and electronics repairers, transportation equipment, and industrial and utility","Installation, Maintenance, and Repair",47635.59458980566
+530,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",Business Operations Specialists,63409.11815084474
+4540,Tour and Travel Guides,Personal Care and Service,22829.57507391719
+8300,Laundry and Dry-Cleaning Workers,Production,23111.9183299831
+4740,Counter and Rental Clerks,Sales and Related,35432.91662303968
+500,"Agents and Business Managers of Artists, Performers, and Athletes",Business Operations Specialists,66359.16131910491
+2020,"Community and Social Service Specialists, nec",Community and Social Services,43610.453558129244
+4530,"Baggage Porters, Bellhops, and Concierges",Personal Care and Service,34391.4105146558
+5140,Payroll and Timekeeping Clerks,Office and Administrative Support,39418.48355047755
+8310,"Pressers, Textile, Garment, and Related Materials",Production,23898.273650949308
+3720,First-Line Supervisors of Fire Fighting and Prevention Workers,Protective Service,84457.90886891157
+9600,Industrial Truck and Tractor Operators,Transportation and Material Moving,33070.489314130275
+1530,"Engineers, nec",Architecture and Engineering,93983.3581118592
+9830,"Military, Rank Not Specified",Military,43773.50456332784
+6260,Construction Laborers,Construction,28394.27209962593
+5300,"Hotel, Motel, and Resort Desk Clerks",Office and Administrative Support,23025.648817001267
+8000,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,34426.49220153227
+7210,Bus and Truck Mechanics and Diesel Engine Specialists,"Installation, Maintenance, and Repair",42695.8886752584
+8920,"Molders, Shapers, and Casters, Except Metal and Plastic",Production,26973.782906714187
+5630,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",Office and Administrative Support,37509.75577411854
+5360,"Human Resources Assistants, Except Payroll and Timekeeping",Office and Administrative Support,50296.58250963185
+2060,"Religious Workers, nec",Community and Social Services,33949.17912103636
+7420,Telecommunications Line Installers and Repairers,"Installation, Maintenance, and Repair",49554.662614537054
+4420,"Ushers, Lobby Attendants, and Ticket Takers",Personal Care and Service,13123.82704516842
+5320,"Library Assistants, Clerical",Office and Administrative Support,16323.082310241163
+1600,Agricultural and Food Scientists,"Life, Physical, and Social Science",62016.753213379925
+3800,"Sheriffs, Bailiffs, Correctional Officers, and Jailers",Protective Service,47974.94698035433
+2900,"Broadcast and Sound Engineering Technicians and Radio Operators, and media and communication equipment workers, all other","Arts, Design, Entertainment, Sports, and Media",46731.2612448953
+2720,"Athletes, Coaches, Umpires, and Related Workers","Arts, Design, Entertainment, Sports, and Media",43763.70014416495
+520,"Wholesale and Retail Buyers, Except Farm Products",Business Operations Specialists,52464.11726516784
+2400,"Archivists, Curators, and Museum Technicians","Education, Training, and Library",62888.082064048205
+6840,Mining Machine Operators,Extraction,62745.647490499825
+8350,"Tailors, Dressmakers, and Sewers",Production,27773.040998730532
+6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",Extraction,65092.829866816726
+7320,Home Appliance Repairers,"Installation, Maintenance, and Repair",29855.350458001372
+8510,Furniture Finishers,Production,20300.706954673475
+560,"Compliance Officers, Except Agriculture",Business Operations Specialists,71967.31988486699
+9510,Crane and Tower Operators,Transportation and Material Moving,55524.19556528616
+8760,"Medical, Dental, and Ophthalmic Laboratory Technicians",Production,39345.26567893276
+8010,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,34464.668567976805
+8610,Stationary Engineers and Boiler Operators,Production,58139.976957722545
+4430,"Entertainment Attendants and Related Workers, nec",Personal Care and Service,18029.829568894023
+2700,"Actors, Producers, and Directors","Arts, Design, Entertainment, Sports, and Media",68555.38834521962
+8500,Cabinetmakers and Bench Carpenters,Production,27157.983495775134
+6040,"Graders and Sorters, Agricultural Products","Farming, Fisheries, and Forestry",25377.756630246662
+7430,Precision Instrument and Equipment Repairers,"Installation, Maintenance, and Repair",43716.28266831933
+7150,Automotive Body and Related Repairers,"Installation, Maintenance, and Repair",35393.337362572114
+8410,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",Production,31180.75137390729
+2825,Public Relations Specialists,"Arts, Design, Entertainment, Sports, and Media",79973.13365166474
+3240,"Therapists, nec",Healthcare Practitioners and Technicians,53163.61055163845
+1830,Urban and Regional Planners,"Life, Physical, and Social Science",75737.79422995911
+1720,Chemists and Materials Scientists,"Life, Physical, and Social Science",78915.20890238204
+8130,Tool and Die Makers,Production,52874.218542744624
+3230,Speech Language Pathologists,Healthcare Practitioners and Technicians,61056.3002007719
+4620,Recreation and Fitness Workers,Personal Care and Service,32270.730496060278
+7125,"Electronic Repairs, nec","Installation, Maintenance, and Repair",46456.13612137581
+4320,First-Line Supervisors of Personal Service Workers,Personal Care and Service,34823.694763600965
+1320,Aerospace Engineers,Architecture and Engineering,96291.1171219053
+1350,Chemical Engineers,Architecture and Engineering,97730.03334774722
+9350,Parking Lot Attendants,Transportation and Material Moving,22007.066958980853
+9040,Air Traffic Controllers and Airfield Operations Specialists,Transportation and Material Moving,109617.73549972646
+3520,"Opticians, Dispensing",Healthcare Practitioners and Technicians,39220.5310687572
+3110,Physician Assistants,Healthcare Practitioners and Technicians,98977.11718677965
+6460,Plasterers and Stucco Masons,Construction,25586.15918219825
+6430,Paperhangers,Construction,14587.856242925176
+1230,Statisticians,Computer and Mathematical,78739.58039186818
+3730,"Supervisors, Protective Service Workers, All Other",Protective Service,58426.18745831897
+130,Human Resources Managers,"Management in Business, Science, and Arts",92592.23519106167
+4930,Sales Engineers,Sales and Related,104854.53163297694
+7840,Food Batchmakers,Production,30987.123047608417
+6360,Glaziers,Construction,36654.59928619309
+8950,Helpers--Production Workers,Production,24686.61735298571
+6515,Roofers,Construction,26757.286237491917
+7900,Computer Control Programmers and Operators,Production,52208.914175539816
+320,Funeral Directors,"Management in Business, Science, and Arts",62846.103082749505
+1650,"Medical Scientists, and Life Scientists, All Other","Life, Physical, and Social Science",96179.43055586399
+2840,Technical Writers,"Arts, Design, Entertainment, Sports, and Media",70860.04049432541
+8200,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",Production,35030.72330303204
+5910,Proofreaders and Copy Markers,Office and Administrative Support,24309.85365168204
+8630,"Plant and System Operators, nec",Production,61449.44301157137
+1440,Marine Engineers and Naval Architects,Architecture and Engineering,84002.57770452905
+3220,Respiratory Therapists,Healthcare Practitioners and Technicians,62667.74328984973
+6005,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Farming, Fisheries, and Forestry",40259.64815192023
+7740,Structural Metal Fabricators and Fitters,Production,42462.66725294442
+7960,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",Production,37376.0379666307
+8540,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",Production,27516.091695776107
+4200,First-Line Supervisors of Housekeeping and Janitorial Workers,Building and Grounds Cleaning and Maintenance,39908.78138393442
+1920,Chemical Technicians,"Life, Physical, and Social Science",49866.794811393396
+1450,Materials Engineers,Architecture and Engineering,82901.23922865138
+4500,Barbers,Personal Care and Service,15778.14036912706
+9240,Railroad Conductors and Yardmasters,Transportation and Material Moving,65524.784977518124
+7540,Locksmiths and Safe Repairers,"Installation, Maintenance, and Repair",33259.948197688944
+2800,Announcers,"Arts, Design, Entertainment, Sports, and Media",45190.97789575335
+1760,"Physical Scientists, nec","Life, Physical, and Social Science",95606.25258385064
+8330,Shoe and Leather Workers and Repairers,Production,24818.71406585653
+8460,"Textile, Apparel, and Furnishings workers, nec",Production,28581.78542249674
+6250,"Cement Masons, Concrete Finishers, and Terrazzo Workers",Construction,30931.424839996525
+6940,"Extraction workers, nec",Extraction,62368.4056400454
+1200,Actuaries,Computer and Mathematical,148479.57104708304
+9200,Locomotive Engineers and Operators,Transportation and Material Moving,73360.63531145615
+10,Chief executives and legislators/public administration,"Management in Business, Science, and Arts",162279.86198830526
+4900,"Models, Demonstrators, and Product Promoters",Sales and Related,22619.931599077572
+1240,"Mathematical science occupations, nec",Computer and Mathematical,94321.86624259027
+5900,"Office Machine Operators, Except Computer",Office and Administrative Support,30630.22028714109
+9560,"Conveyor operators and tenders, and hoist and winch operators",Transportation and Material Moving,41968.62399088191
+1840,"Social Scientists, nec","Life, Physical, and Social Science",65455.83028821401
+9260,"Subway, Streetcar, and Other Rail Transportation Workers",Transportation and Material Moving,59746.93468112899
+9300,"Sailors and marine oilers, and ship engineers",Transportation and Material Moving,55070.66602272454
+3120,Podiatrists,Healthcare Practitioners and Technicians,135264.2318551966
+9310,Ship and Boat Captains and Operators,Transportation and Material Moving,66714.48505722037
+9150,"Motor Vehicle Operators, All Other",Transportation and Material Moving,23916.819608065398
+8150,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",Production,51704.1077441524
+1310,"Surveyors, Cartographers, and Photogrammetrists",Architecture and Engineering,54165.75385946014
+510,"Buyers and Purchasing Agents, Farm Products",Business Operations Specialists,48934.14484325647
+7610,"Helpers--Installation, Maintenance, and Repair Workers","Installation, Maintenance, and Repair",20646.28350612184
+7930,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",Production,36212.55591391021
+3250,Veterinarians,Healthcare Practitioners and Technicians,86117.67530152747
+7940,"Rolling Machine Setters, Operators, and Tenders, metal and Plastic",Production,41963.8163126489
+8860,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",Production,25552.88676652777
+1640,Conservation Scientists and Foresters,"Life, Physical, and Social Science",52949.8897171116
+8250,Prepress Technicians and Workers,Production,44319.79209931846
+8850,Adhesive Bonding Machine Operators and Tenders,Production,32899.10841117296
+5560,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",Office and Administrative Support,51332.664730471435
+3040,Optometrists,Healthcare Practitioners and Technicians,102623.48946753588
+1700,Astronomers and Physicists,"Life, Physical, and Social Science",98891.7929861863
+5030,"Communications Equipment Operators, All Other",Office and Administrative Support,61775.480814060254
+3750,Fire Inspectors,Protective Service,64878.240348949934
+7830,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",Production,30753.40420359285
+7300,Control and Valve Installers and Repairers,"Installation, Maintenance, and Repair",53876.092116018895
+1710,Atmospheric and Space Scientists,"Life, Physical, and Social Science",112089.92686686313
+6830,"Explosives Workers, Ordnance Handling Experts, and Blasters",Extraction,53636.78640709549
+1520,"Petroleum, mining and geological engineers, including mining safety engineers",Architecture and Engineering,108252.65407190635
+6120,Forest and Conservation Workers,"Farming, Fisheries, and Forestry",38221.19668941729
+8400,"Textile bleaching and dyeing, and cutting machine setters, operators, and tenders",Production,27754.18136215922
+7350,"Maintenance Workers, Machinery","Installation, Maintenance, and Repair",42969.69256732417
+6010,Agricultural Inspectors,"Farming, Fisheries, and Forestry",51671.85942274658
+9230,"Railroad Brake, Signal, and Switch Operators",Transportation and Material Moving,50681.974500945806
+9420,"Transportation workers, nec",Transportation and Material Moving,47441.083373951646
+3600,"Nursing, Psychiatric, and Home Health Aides",Healthcare Support,27989.20752379302
+4940,Telemarketers,Sales and Related,25748.329127328172
+3260,"Health Diagnosing and Treating Practitioners, nec",Healthcare Practitioners and Technicians,34203.63504110955
+1420,Environmental Engineers,Architecture and Engineering,80907.80771088983
+1020,"Software Developers, Applications and Systems Software",Computer and Mathematical,108444.21206542995
+5240,Customer Service Representatives,Office and Administrative Support,40214.990490182
+4640,Residential Advisors,Personal Care and Service,38307.25569086768
+1100,Network and Computer Systems Administrators,Computer and Mathematical,76148.36969019254
+3320,Diagnostic Related Technologists and Technicians,Healthcare Practitioners and Technicians,67581.79004917198
+20,General and Operations Managers,"Management in Business, Science, and Arts",94521.99684026201
+4140,Dishwashers,Food Preparation and Serving,16141.893418522268
+7630,"Other Installation, Maintenance, and Repair Workers Including Wind Turbine Service Technicians, and Commercial Divers, and Signal and Track Switch Repairers","Installation, Maintenance, and Repair",35969.14066681431
+5840,Insurance Claims and Policy Processing Clerks,Office and Administrative Support,45335.98023192093
+140,Industrial Production Managers,"Management in Business, Science, and Arts",84122.6729185374
+810,Appraisers and Assessors of Real Estate,Financial Specialists,51440.01288580512
+4150,"Host and Hostesses, Restaurant, Lounge, and Coffee Shop",Food Preparation and Serving,14684.836051771523
+7550,Manufactured Building and Mobile Home Installers,"Installation, Maintenance, and Repair",29086.55025182334
+3910,Private Detectives and Investigators,Protective Service,64748.92207563523
+420,Social and Community Service Managers,"Management in Business, Science, and Arts",69574.22775785855
+850,Personal Financial Advisors,Financial Specialists,120700.19396832125
+4050,"Combined Food Preparation and Serving Workers, Including Fast Food",Food Preparation and Serving,15703.514167598882
+4610,Personal Care Aides,Personal Care and Service,25536.00358350148
+4120,"Food Servers, Nonrestaurant",Food Preparation and Serving,22226.599626473806
+4460,Funeral Service Workers and Embalmers,Personal Care and Service,34939.44014713287
+7130,Security and Fire Alarm Systems Installers,"Installation, Maintenance, and Repair",45332.57526991554
+3000,Chiropractors,Healthcare Practitioners and Technicians,83545.90753584741
+2150,"Legal Support Workers, nec",Legal,64552.24704471451
+7120,Electronic Home Entertainment Equipment Installers and Repairers,"Installation, Maintenance, and Repair",40046.558430654004
+7410,Electrical Power-Line Installers and Repairers,"Installation, Maintenance, and Repair",68085.1361837157
+820,Budget Analysts,Financial Specialists,88934.53377090197
+7260,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers, nec","Installation, Maintenance, and Repair",27161.94649895648
+930,"Tax Examiners and Collectors, and Revenue Agents",Financial Specialists,67259.84761262225
+9360,Automotive and Watercraft Service Attendants,Transportation and Material Moving,21906.51050288551
+830,Credit Analysts,Financial Specialists,76030.68488687258
+7560,Riggers,"Installation, Maintenance, and Repair",54093.1941103902
+220,Constructions Managers,"Management in Business, Science, and Arts",63959.801946896085
+3400,Emergency Medical Technicians and Paramedics,Healthcare Practitioners and Technicians,53262.71629012398
+910,Credit Counselors and Loan Officers,Financial Specialists,85894.58130668408
+5010,"Switchboard Operators, Including Answering Service",Office and Administrative Support,35406.22201592609
+4300,First-Line Supervisors of Gaming Workers,Personal Care and Service,55768.68034255999
+1050,Computer Support Specialists,Computer and Mathematical,64192.56844258683
+110,Computer and Information Systems Managers,"Management in Business, Science, and Arts",111832.5855860423
+4830,Travel Agents,Sales and Related,43982.9013710485
+5220,"Court, Municipal, and License Clerks",Office and Administrative Support,36230.543171969424
+6730,Highway Maintenance Workers,Construction,40966.63752040091
+6720,Hazardous Materials Removal Workers,Construction,39046.90348385957
+160,"Transportation, Storage, and Distribution Managers","Management in Business, Science, and Arts",61076.367997940804
+720,Meeting and Convention Planners,Business Operations Specialists,56066.205526080084
+300,Architectural and Engineering Managers,"Management in Business, Science, and Arts",132028.53131302414
+8040,"Metal Furnace Operators, Tenders, Pourers, and Casters",Production,45015.66052905632
+1400,Computer Hardware Engineers,Architecture and Engineering,108133.51221793276
+100,Administrative Services Managers,"Management in Business, Science, and Arts",76304.44252334222
+600,Cost Estimators,Business Operations Specialists,67262.54938547224
+3630,Massage Therapists,Healthcare Support,24728.771396489683
+1060,Database Administrators,Computer and Mathematical,90005.61739032202
+7510,"Coin, Vending, and Amusement Machine Servicers and Repairers","Installation, Maintenance, and Repair",32582.210145545687
+3700,First-Line Supervisors of Correctional Officers,Protective Service,62264.945693840455
+3610,Occupational Therapy Assistants and Aides,Healthcare Support,48061.56321656011
+700,Logisticians,Business Operations Specialists,65678.63599247343
+3140,Audiologists,Healthcare Practitioners and Technicians,89430.23957951751
+2050,"Directors, Religious Activities and Education",Community and Social Services,45192.94143358415
+1900,Agricultural and Food Science Technicians,"Life, Physical, and Social Science",51927.50782582529
+7160,Automotive Glass Installers and Repairers,"Installation, Maintenance, and Repair",32802.29881592491
+9410,Transportation Inspectors,Transportation and Material Moving,60840.273899257794
+3620,Physical Therapist Assistants and Aides,Healthcare Support,39316.90968805479
+2440,Library Technicians,"Education, Training, and Library",30366.80635917651
+3900,Animal Control,Protective Service,35859.46205713025
+940,Tax Preparers,Financial Specialists,49595.1641868267
+2920,"Television, Video, and Motion Picture Camera Operators and Editors","Arts, Design, Entertainment, Sports, and Media",49028.66244928337
+840,Financial Analysts,Financial Specialists,109216.81555825887
+2860,"Media and Communication Workers, nec","Arts, Design, Entertainment, Sports, and Media",37017.68361685356
+4400,Gaming Services Workers,Personal Care and Service,32489.11439584238
+2550,"Education, Training, and Library Workers, nec","Education, Training, and Library",57445.73932355645
+8940,Tire Builders,Production,41424.83157817136
+5200,Brokerage Clerks,Office and Administrative Support,36772.00367271051
+5150,Procurement Clerks,Office and Administrative Support,71520.63939487371
+5500,Cargo and Freight Agents,Office and Administrative Support,46329.03970330339
+4520,"Personal Appearance Workers, nec",Personal Care and Service,19597.413528537265
+900,Financial Examiners,Financial Specialists,101183.4508693855
+7710,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",Production,45413.67285971456
+5230,"Credit Authorizers, Checkers, and Clerks",Office and Administrative Support,58774.77763711143
+4340,Animal Trainers,Personal Care and Service,21707.53310223368
+3210,Recreational Therapists,Healthcare Practitioners and Technicians,56656.38861824379
+7730,Engine and Other Machine Assemblers,Production,45901.65336187459
+6710,Fence Erectors,Construction,23090.11222911186
+360,Natural Science Managers,"Management in Business, Science, and Arts",120694.41834093633
+5340,New Account Clerks,Office and Administrative Support,50702.62550373522
+7110,"Electronic Equipment Installers and Repairers, Motor Vehicles","Installation, Maintenance, and Repair",45819.75098416729
+6740,Rail-Track Laying and Maintenance Equipment Operators,Construction,54137.333258958155
+3200,Radiation Therapists,Healthcare Practitioners and Technicians,84645.16058156158
+5130,Gaming Cage Workers,Office and Administrative Support,24581.330163004568
+330,Gaming Managers,"Management in Business, Science, and Arts",48962.98985062988
+8210,"Tool Grinders, Filers, and Sharpeners",Production,33003.28159623951
+8060,"Model Makers and Patternmakers, Metal and Plastic",Production,46351.2307388384
+7850,Food Cooking Machine Operators and Tenders,Production,27389.542852664872
+6500,Reinforcing Iron and Rebar Workers,Construction,45039.00376820728
+7920,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",Production,42166.87828571599
+1930,"Geological and Petroleum Technicians, and Nuclear Technicians","Life, Physical, and Social Science",64588.0326222631
+7030,Avionics Technicians,"Installation, Maintenance, and Repair",61004.758196836396
+5165,"Financial Clerks, nec",Office and Administrative Support,73103.72876581074
+7855,"Food Processing, nec",Production,43278.74003908536

@@ -1,0 +1,114 @@
+[
+    {
+        "Variable": "EDUC_Label",
+        "Group": "Doctorate degree",
+        "T-statistic": 1094.972917318648,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "EDUC_Label",
+        "Group": "Some college but no degree",
+        "T-statistic": 4375.8751022408815,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "EDUC_Label",
+        "Group": "High school diploma or equivalent",
+        "T-statistic": 4892.313128765141,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "EDUC_Label",
+        "Group": "Master's degree",
+        "T-statistic": 3489.571824639877,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "EDUC_Label",
+        "Group": "Bachelor's degree",
+        "T-statistic": 5209.124871501693,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "EDUC_Label",
+        "Group": "Associate's degree, academic program",
+        "T-statistic": 2535.2370431323707,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "EDUC_Label",
+        "Group": "Associate's degree, occupational/vocational program",
+        "T-statistic": 2277.4218738090894,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "EDUC_Label",
+        "Group": "Grade 10",
+        "T-statistic": 980.5519927624875,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "EDUC_Label",
+        "Group": "12th grade, no diploma",
+        "T-statistic": 676.9538955964082,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "EDUC_Label",
+        "Group": "Professional school degree",
+        "T-statistic": 1202.7202932003818,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "EDUC_Label",
+        "Group": "Grade 9",
+        "T-statistic": 645.6982111639223,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "EDUC_Label",
+        "Group": "Grade 11",
+        "T-statistic": 1321.8149241223189,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "EDUC_Label",
+        "Group": "Grades 7 or 8",
+        "T-statistic": 799.1700064942064,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "EDUC_Label",
+        "Group": "None, preschool, or kindergarten",
+        "T-statistic": 219.00745161358049,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "EDUC_Label",
+        "Group": "Grades 5 or 6",
+        "T-statistic": 686.1809631874722,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "EDUC_Label",
+        "Group": "Grades 1, 2, 3, or 4",
+        "T-statistic": 464.77147621616774,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    }
+]

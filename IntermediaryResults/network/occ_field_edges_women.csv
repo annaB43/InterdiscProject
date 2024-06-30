@@ -1,0 +1,610 @@
+Source,Target,Weight,Income_target,Income_source,income_difference,income_change
+Architecture and Engineering,Architecture and Engineering,593774.14,71938.56257014627,71938.56257014627,0.0,No Change
+Architecture and Engineering,"Arts, Design, Entertainment, Sports, and Media",23295.11,35491.781115393365,71938.56257014627,-36447.0,Decrease
+Architecture and Engineering,Building and Grounds Cleaning and Maintenance,2681.75,16541.311755234532,71938.56257014627,-55397.0,Decrease
+Architecture and Engineering,Business Operations Specialists,7144.52,53833.96588586904,71938.56257014627,-18105.0,Decrease
+Architecture and Engineering,Community and Social Services,1777.27,39850.66848668825,71938.56257014627,-32088.0,Decrease
+Architecture and Engineering,Computer and Mathematical,25983.879999999997,69872.77205397128,71938.56257014627,-2066.0,No Change
+Architecture and Engineering,Construction,2883.07,30691.128202638778,71938.56257014627,-41247.0,Decrease
+Architecture and Engineering,"Education, Training, and Library",19920.260000000002,37672.26891328721,71938.56257014627,-34266.0,Decrease
+Architecture and Engineering,Financial Specialists,14840.33,54318.52958380157,71938.56257014627,-17620.0,Decrease
+Architecture and Engineering,Food Preparation and Serving,5354.53,16827.164562152913,71938.56257014627,-55111.0,Decrease
+Architecture and Engineering,Healthcare Practitioners and Technicians,4186.26,56817.99482099063,71938.56257014627,-15121.0,Decrease
+Architecture and Engineering,Healthcare Support,6631.01,24383.338823273294,71938.56257014627,-47555.0,Decrease
+Architecture and Engineering,Legal,16473.93,75285.82779871544,71938.56257014627,3347.0,Increase
+Architecture and Engineering,"Life, Physical, and Social Science",16276.57,55559.879669785005,71938.56257014627,-16379.0,Decrease
+Architecture and Engineering,"Management in Business, Science, and Arts",30966.64,62485.65115532022,71938.56257014627,-9453.0,Decrease
+Architecture and Engineering,Office and Administrative Support,21652.12,31322.552919183527,71938.56257014627,-40616.0,Decrease
+Architecture and Engineering,Personal Care and Service,9222.869999999999,16956.35344887663,71938.56257014627,-54982.0,Decrease
+Architecture and Engineering,Production,9151.24,26529.458098435443,71938.56257014627,-45409.0,Decrease
+Architecture and Engineering,Sales and Related,25275.4,29024.82888719898,71938.56257014627,-42914.0,Decrease
+Architecture and Engineering,Technicians,85220.21,40079.6350091884,71938.56257014627,-31859.0,Decrease
+Architecture and Engineering,Transportation and Material Moving,7850.780000000001,24873.64778481961,71938.56257014627,-47065.0,Decrease
+"Arts, Design, Entertainment, Sports, and Media",Architecture and Engineering,36460.54,71938.56257014627,35491.781115393365,36447.0,Increase
+"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media",2488207.7,35491.781115393365,35491.781115393365,0.0,No Change
+"Arts, Design, Entertainment, Sports, and Media",Building and Grounds Cleaning and Maintenance,29081.29,16541.311755234532,35491.781115393365,-18950.0,Decrease
+"Arts, Design, Entertainment, Sports, and Media",Business Operations Specialists,83030.02,53833.96588586904,35491.781115393365,18342.0,Increase
+"Arts, Design, Entertainment, Sports, and Media",Community and Social Services,87188.51,39850.66848668825,35491.781115393365,4359.0,Increase
+"Arts, Design, Entertainment, Sports, and Media",Computer and Mathematical,47432.82,69872.77205397128,35491.781115393365,34381.0,Increase
+"Arts, Design, Entertainment, Sports, and Media",Construction,2538.31,30691.128202638778,35491.781115393365,-4801.0,Decrease
+"Arts, Design, Entertainment, Sports, and Media","Education, Training, and Library",232352.32,37672.26891328721,35491.781115393365,2180.0,No Change
+"Arts, Design, Entertainment, Sports, and Media","Farming, Fisheries, and Forestry",1580.99,19847.58208962702,35491.781115393365,-15644.0,Decrease
+"Arts, Design, Entertainment, Sports, and Media",Financial Specialists,24372.28,54318.52958380157,35491.781115393365,18827.0,Increase
+"Arts, Design, Entertainment, Sports, and Media",Food Preparation and Serving,113241.34,16827.164562152913,35491.781115393365,-18665.0,Decrease
+"Arts, Design, Entertainment, Sports, and Media",Healthcare Practitioners and Technicians,33068.63,56817.99482099063,35491.781115393365,21326.0,Increase
+"Arts, Design, Entertainment, Sports, and Media",Healthcare Support,27217.07,24383.338823273294,35491.781115393365,-11108.0,Decrease
+"Arts, Design, Entertainment, Sports, and Media","Installation, Maintenance, and Repair",2193.33,39996.60866560612,35491.781115393365,4505.0,Increase
+"Arts, Design, Entertainment, Sports, and Media",Legal,56543.93,75285.82779871544,35491.781115393365,39794.0,Increase
+"Arts, Design, Entertainment, Sports, and Media","Life, Physical, and Social Science",31120.91,55559.879669785005,35491.781115393365,20068.0,Increase
+"Arts, Design, Entertainment, Sports, and Media","Management in Business, Science, and Arts",202107.94,62485.65115532022,35491.781115393365,26994.0,Increase
+"Arts, Design, Entertainment, Sports, and Media",Office and Administrative Support,310328.84,31322.552919183527,35491.781115393365,-4169.0,Decrease
+"Arts, Design, Entertainment, Sports, and Media",Personal Care and Service,93631.16,16956.35344887663,35491.781115393365,-18535.0,Decrease
+"Arts, Design, Entertainment, Sports, and Media",Production,21957.75,26529.458098435443,35491.781115393365,-8962.0,Decrease
+"Arts, Design, Entertainment, Sports, and Media",Protective Service,7449.91,38816.46470880795,35491.781115393365,3325.0,Increase
+"Arts, Design, Entertainment, Sports, and Media",Sales and Related,243833.63,29024.82888719898,35491.781115393365,-6467.0,Decrease
+"Arts, Design, Entertainment, Sports, and Media",Technicians,5911.34,40079.6350091884,35491.781115393365,4588.0,Increase
+"Arts, Design, Entertainment, Sports, and Media",Transportation and Material Moving,15522.29,24873.64778481961,35491.781115393365,-10618.0,Decrease
+Building and Grounds Cleaning and Maintenance,Architecture and Engineering,11201.36,71938.56257014627,16541.311755234532,55397.0,Increase
+Building and Grounds Cleaning and Maintenance,"Arts, Design, Entertainment, Sports, and Media",27500.29,35491.781115393365,16541.311755234532,18950.0,Increase
+Building and Grounds Cleaning and Maintenance,Building and Grounds Cleaning and Maintenance,2189955.61,16541.311755234532,16541.311755234532,0.0,No Change
+Building and Grounds Cleaning and Maintenance,Business Operations Specialists,16679.95,53833.96588586904,16541.311755234532,37293.0,Increase
+Building and Grounds Cleaning and Maintenance,Community and Social Services,20049.63,39850.66848668825,16541.311755234532,23309.0,Increase
+Building and Grounds Cleaning and Maintenance,Construction,33336.82,30691.128202638778,16541.311755234532,14150.0,Increase
+Building and Grounds Cleaning and Maintenance,"Education, Training, and Library",124527.74,37672.26891328721,16541.311755234532,21131.0,Increase
+Building and Grounds Cleaning and Maintenance,Extraction,474.45000000000005,64213.09453174487,16541.311755234532,47672.0,Increase
+Building and Grounds Cleaning and Maintenance,"Farming, Fisheries, and Forestry",32662.98,19847.58208962702,16541.311755234532,3306.0,Increase
+Building and Grounds Cleaning and Maintenance,Financial Specialists,27574.94,54318.52958380157,16541.311755234532,37777.0,Increase
+Building and Grounds Cleaning and Maintenance,Food Preparation and Serving,332690.09,16827.164562152913,16541.311755234532,286.0,No Change
+Building and Grounds Cleaning and Maintenance,Healthcare Practitioners and Technicians,62688.9,56817.99482099063,16541.311755234532,40277.0,Increase
+Building and Grounds Cleaning and Maintenance,Healthcare Support,112200.93,24383.338823273294,16541.311755234532,7842.0,Increase
+Building and Grounds Cleaning and Maintenance,"Installation, Maintenance, and Repair",5620.46,39996.60866560612,16541.311755234532,23455.0,Increase
+Building and Grounds Cleaning and Maintenance,Legal,14859.630000000001,75285.82779871544,16541.311755234532,58745.0,Increase
+Building and Grounds Cleaning and Maintenance,"Life, Physical, and Social Science",16304.23,55559.879669785005,16541.311755234532,39019.0,Increase
+Building and Grounds Cleaning and Maintenance,"Management in Business, Science, and Arts",66652.58,62485.65115532022,16541.311755234532,45944.0,Increase
+Building and Grounds Cleaning and Maintenance,Office and Administrative Support,278772.7,31322.552919183527,16541.311755234532,14781.0,Increase
+Building and Grounds Cleaning and Maintenance,Personal Care and Service,285628.91,16956.35344887663,16541.311755234532,415.0,No Change
+Building and Grounds Cleaning and Maintenance,Production,220261.08,26529.458098435443,16541.311755234532,9988.0,Increase
+Building and Grounds Cleaning and Maintenance,Protective Service,27025.36,38816.46470880795,16541.311755234532,22275.0,Increase
+Building and Grounds Cleaning and Maintenance,Sales and Related,344227.97,29024.82888719898,16541.311755234532,12484.0,Increase
+Building and Grounds Cleaning and Maintenance,Technicians,3989.83,40079.6350091884,16541.311755234532,23538.0,Increase
+Building and Grounds Cleaning and Maintenance,Transportation and Material Moving,131691.72,24873.64778481961,16541.311755234532,8332.0,Increase
+Business Operations Specialists,Architecture and Engineering,15168.55,71938.56257014627,53833.96588586904,18105.0,Increase
+Business Operations Specialists,"Arts, Design, Entertainment, Sports, and Media",81144.34,35491.781115393365,53833.96588586904,-18342.0,Decrease
+Business Operations Specialists,Building and Grounds Cleaning and Maintenance,27402.82,16541.311755234532,53833.96588586904,-37293.0,Decrease
+Business Operations Specialists,Business Operations Specialists,3599340.88,53833.96588586904,53833.96588586904,0.0,No Change
+Business Operations Specialists,Community and Social Services,55169.37,39850.66848668825,53833.96588586904,-13983.0,Decrease
+Business Operations Specialists,Computer and Mathematical,70054.67,69872.77205397128,53833.96588586904,16039.0,Increase
+Business Operations Specialists,Construction,9826.02,30691.128202638778,53833.96588586904,-23143.0,Decrease
+Business Operations Specialists,"Education, Training, and Library",152030.25,37672.26891328721,53833.96588586904,-16162.0,Decrease
+Business Operations Specialists,Extraction,5619.99,64213.09453174487,53833.96588586904,10379.0,Increase
+Business Operations Specialists,Financial Specialists,102407.33,54318.52958380157,53833.96588586904,485.0,No Change
+Business Operations Specialists,Food Preparation and Serving,59213.61,16827.164562152913,53833.96588586904,-37007.0,Decrease
+Business Operations Specialists,Healthcare Practitioners and Technicians,76203.36,56817.99482099063,53833.96588586904,2984.0,No Change
+Business Operations Specialists,Healthcare Support,26820.78,24383.338823273294,53833.96588586904,-29451.0,Decrease
+Business Operations Specialists,"Installation, Maintenance, and Repair",8159.93,39996.60866560612,53833.96588586904,-13837.0,Decrease
+Business Operations Specialists,Legal,74086.98,75285.82779871544,53833.96588586904,21452.0,Increase
+Business Operations Specialists,"Life, Physical, and Social Science",48762.89,55559.879669785005,53833.96588586904,1726.0,No Change
+Business Operations Specialists,"Management in Business, Science, and Arts",686744.05,62485.65115532022,53833.96588586904,8652.0,Increase
+Business Operations Specialists,Office and Administrative Support,632053.11,31322.552919183527,53833.96588586904,-22511.0,Decrease
+Business Operations Specialists,Personal Care and Service,87267.24,16956.35344887663,53833.96588586904,-36878.0,Decrease
+Business Operations Specialists,Production,45549.57,26529.458098435443,53833.96588586904,-27305.0,Decrease
+Business Operations Specialists,Protective Service,22450.22,38816.46470880795,53833.96588586904,-15018.0,Decrease
+Business Operations Specialists,Sales and Related,262107.95,29024.82888719898,53833.96588586904,-24809.0,Decrease
+Business Operations Specialists,Technicians,981.06,40079.6350091884,53833.96588586904,-13754.0,Decrease
+Business Operations Specialists,Transportation and Material Moving,12502.33,24873.64778481961,53833.96588586904,-28960.0,Decrease
+Community and Social Services,"Arts, Design, Entertainment, Sports, and Media",126217.79,35491.781115393365,39850.66848668825,-4359.0,Decrease
+Community and Social Services,Building and Grounds Cleaning and Maintenance,24181.3,16541.311755234532,39850.66848668825,-23309.0,Decrease
+Community and Social Services,Business Operations Specialists,95360.49,53833.96588586904,39850.66848668825,13983.0,Increase
+Community and Social Services,Community and Social Services,2054376.08,39850.66848668825,39850.66848668825,0.0,No Change
+Community and Social Services,Computer and Mathematical,20188.81,69872.77205397128,39850.66848668825,30022.0,Increase
+Community and Social Services,Construction,472.89,30691.128202638778,39850.66848668825,-9160.0,Decrease
+Community and Social Services,"Education, Training, and Library",236540.28,37672.26891328721,39850.66848668825,-2178.0,No Change
+Community and Social Services,"Farming, Fisheries, and Forestry",736.67,19847.58208962702,39850.66848668825,-20003.0,Decrease
+Community and Social Services,Financial Specialists,30501.98,54318.52958380157,39850.66848668825,14468.0,Increase
+Community and Social Services,Food Preparation and Serving,54301.41,16827.164562152913,39850.66848668825,-23024.0,Decrease
+Community and Social Services,Healthcare Practitioners and Technicians,168332.2,56817.99482099063,39850.66848668825,16967.0,Increase
+Community and Social Services,Healthcare Support,24701.77,24383.338823273294,39850.66848668825,-15467.0,Decrease
+Community and Social Services,"Installation, Maintenance, and Repair",1319.66,39996.60866560612,39850.66848668825,146.0,No Change
+Community and Social Services,Legal,58130.04,75285.82779871544,39850.66848668825,35435.0,Increase
+Community and Social Services,"Life, Physical, and Social Science",73657.45,55559.879669785005,39850.66848668825,15709.0,Increase
+Community and Social Services,"Management in Business, Science, and Arts",167632.03,62485.65115532022,39850.66848668825,22635.0,Increase
+Community and Social Services,Office and Administrative Support,277388.85,31322.552919183527,39850.66848668825,-8528.0,Decrease
+Community and Social Services,Personal Care and Service,101404.06,16956.35344887663,39850.66848668825,-22894.0,Decrease
+Community and Social Services,Production,9226.89,26529.458098435443,39850.66848668825,-13321.0,Decrease
+Community and Social Services,Protective Service,13864.75,38816.46470880795,39850.66848668825,-1034.0,No Change
+Community and Social Services,Sales and Related,124680.82,29024.82888719898,39850.66848668825,-10826.0,Decrease
+Community and Social Services,Transportation and Material Moving,17166.33,24873.64778481961,39850.66848668825,-14977.0,Decrease
+Computer and Mathematical,Architecture and Engineering,18429.35,71938.56257014627,69872.77205397128,2066.0,No Change
+Computer and Mathematical,"Arts, Design, Entertainment, Sports, and Media",44299.51,35491.781115393365,69872.77205397128,-34381.0,Decrease
+Computer and Mathematical,Building and Grounds Cleaning and Maintenance,6821.56,16541.311755234532,69872.77205397128,-53331.0,Decrease
+Computer and Mathematical,Business Operations Specialists,82196.09,53833.96588586904,69872.77205397128,-16039.0,Decrease
+Computer and Mathematical,Community and Social Services,4799.79,39850.66848668825,69872.77205397128,-30022.0,Decrease
+Computer and Mathematical,Computer and Mathematical,1619464.45,69872.77205397128,69872.77205397128,0.0,No Change
+Computer and Mathematical,Construction,5322.16,30691.128202638778,69872.77205397128,-39182.0,Decrease
+Computer and Mathematical,"Education, Training, and Library",60134.18,37672.26891328721,69872.77205397128,-32201.0,Decrease
+Computer and Mathematical,Financial Specialists,23073.58,54318.52958380157,69872.77205397128,-15554.0,Decrease
+Computer and Mathematical,Food Preparation and Serving,42225.19,16827.164562152913,69872.77205397128,-53046.0,Decrease
+Computer and Mathematical,Healthcare Practitioners and Technicians,34267.98,56817.99482099063,69872.77205397128,-13055.0,Decrease
+Computer and Mathematical,Healthcare Support,8165.780000000001,24383.338823273294,69872.77205397128,-45489.0,Decrease
+Computer and Mathematical,"Installation, Maintenance, and Repair",3923.2799999999997,39996.60866560612,69872.77205397128,-29876.0,Decrease
+Computer and Mathematical,Legal,51102.75,75285.82779871544,69872.77205397128,5413.0,Increase
+Computer and Mathematical,"Life, Physical, and Social Science",65862.34,55559.879669785005,69872.77205397128,-14313.0,Decrease
+Computer and Mathematical,"Management in Business, Science, and Arts",128683.84,62485.65115532022,69872.77205397128,-7387.0,Decrease
+Computer and Mathematical,Office and Administrative Support,131806.29,31322.552919183527,69872.77205397128,-38550.0,Decrease
+Computer and Mathematical,Personal Care and Service,8474.05,16956.35344887663,69872.77205397128,-52916.0,Decrease
+Computer and Mathematical,Production,17121.32,26529.458098435443,69872.77205397128,-43343.0,Decrease
+Computer and Mathematical,Protective Service,2205.48,38816.46470880795,69872.77205397128,-31056.0,Decrease
+Computer and Mathematical,Sales and Related,60555.89,29024.82888719898,69872.77205397128,-40848.0,Decrease
+Computer and Mathematical,Technicians,1226.97,40079.6350091884,69872.77205397128,-29793.0,Decrease
+Computer and Mathematical,Transportation and Material Moving,11253.84,24873.64778481961,69872.77205397128,-44999.0,Decrease
+Construction,Architecture and Engineering,4631.68,71938.56257014627,30691.128202638778,41247.0,Increase
+Construction,"Arts, Design, Entertainment, Sports, and Media",6268.530000000001,35491.781115393365,30691.128202638778,4801.0,Increase
+Construction,Building and Grounds Cleaning and Maintenance,39645.6,16541.311755234532,30691.128202638778,-14150.0,Decrease
+Construction,Business Operations Specialists,3253.4,53833.96588586904,30691.128202638778,23143.0,Increase
+Construction,Computer and Mathematical,1136.91,69872.77205397128,30691.128202638778,39182.0,Increase
+Construction,Construction,355268.65,30691.128202638778,30691.128202638778,0.0,No Change
+Construction,"Education, Training, and Library",20486.87,37672.26891328721,30691.128202638778,6981.0,Increase
+Construction,"Farming, Fisheries, and Forestry",1598.43,19847.58208962702,30691.128202638778,-10844.0,Decrease
+Construction,Financial Specialists,2102.32,54318.52958380157,30691.128202638778,23627.0,Increase
+Construction,Food Preparation and Serving,33745.26,16827.164562152913,30691.128202638778,-13864.0,Decrease
+Construction,Healthcare Practitioners and Technicians,6870.0,56817.99482099063,30691.128202638778,26127.0,Increase
+Construction,Healthcare Support,8036.67,24383.338823273294,30691.128202638778,-6308.0,Decrease
+Construction,"Installation, Maintenance, and Repair",879.88,39996.60866560612,30691.128202638778,9305.0,Increase
+Construction,Legal,484.87,75285.82779871544,30691.128202638778,44595.0,Increase
+Construction,"Life, Physical, and Social Science",2096.2,55559.879669785005,30691.128202638778,24869.0,Increase
+Construction,"Management in Business, Science, and Arts",19115.77,62485.65115532022,30691.128202638778,31795.0,Increase
+Construction,Office and Administrative Support,37708.15,31322.552919183527,30691.128202638778,631.0,No Change
+Construction,Personal Care and Service,28307.92,16956.35344887663,30691.128202638778,-13735.0,Decrease
+Construction,Production,39783.03,26529.458098435443,30691.128202638778,-4162.0,Decrease
+Construction,Protective Service,7362.3,38816.46470880795,30691.128202638778,8125.0,Increase
+Construction,Sales and Related,51669.67,29024.82888719898,30691.128202638778,-1666.0,No Change
+Construction,Transportation and Material Moving,36813.64,24873.64778481961,30691.128202638778,-5817.0,Decrease
+"Education, Training, and Library",Architecture and Engineering,47704.26,71938.56257014627,37672.26891328721,34266.0,Increase
+"Education, Training, and Library","Arts, Design, Entertainment, Sports, and Media",193097.46,35491.781115393365,37672.26891328721,-2180.0,No Change
+"Education, Training, and Library",Building and Grounds Cleaning and Maintenance,87163.15000000001,16541.311755234532,37672.26891328721,-21131.0,Decrease
+"Education, Training, and Library",Business Operations Specialists,152135.63999999998,53833.96588586904,37672.26891328721,16162.0,Increase
+"Education, Training, and Library",Community and Social Services,243985.52,39850.66848668825,37672.26891328721,2178.0,No Change
+"Education, Training, and Library",Computer and Mathematical,64838.96,69872.77205397128,37672.26891328721,32201.0,Increase
+"Education, Training, and Library",Construction,22044.38,30691.128202638778,37672.26891328721,-6981.0,Decrease
+"Education, Training, and Library","Education, Training, and Library",5741995.43,37672.26891328721,37672.26891328721,0.0,No Change
+"Education, Training, and Library","Farming, Fisheries, and Forestry",25332.8,19847.58208962702,37672.26891328721,-17825.0,Decrease
+"Education, Training, and Library",Financial Specialists,79805.23,54318.52958380157,37672.26891328721,16646.0,Increase
+"Education, Training, and Library",Food Preparation and Serving,220194.96,16827.164562152913,37672.26891328721,-20845.0,Decrease
+"Education, Training, and Library",Healthcare Practitioners and Technicians,332664.72,56817.99482099063,37672.26891328721,19146.0,Increase
+"Education, Training, and Library",Healthcare Support,126437.68,24383.338823273294,37672.26891328721,-13289.0,Decrease
+"Education, Training, and Library","Installation, Maintenance, and Repair",8175.54,39996.60866560612,37672.26891328721,2324.0,No Change
+"Education, Training, and Library",Legal,215478.27,75285.82779871544,37672.26891328721,37614.0,Increase
+"Education, Training, and Library","Life, Physical, and Social Science",139101.32,55559.879669785005,37672.26891328721,17888.0,Increase
+"Education, Training, and Library","Management in Business, Science, and Arts",531800.27,62485.65115532022,37672.26891328721,24813.0,Increase
+"Education, Training, and Library",Office and Administrative Support,1012305.62,31322.552919183527,37672.26891328721,-6350.0,Decrease
+"Education, Training, and Library",Personal Care and Service,482179.74,16956.35344887663,37672.26891328721,-20716.0,Decrease
+"Education, Training, and Library",Production,158220.14,26529.458098435443,37672.26891328721,-11143.0,Decrease
+"Education, Training, and Library",Protective Service,61245.5,38816.46470880795,37672.26891328721,1144.0,No Change
+"Education, Training, and Library",Sales and Related,443294.6,29024.82888719898,37672.26891328721,-8647.0,Decrease
+"Education, Training, and Library",Technicians,5087.320000000001,40079.6350091884,37672.26891328721,2407.0,No Change
+"Education, Training, and Library",Transportation and Material Moving,103399.06999999999,24873.64778481961,37672.26891328721,-12799.0,Decrease
+Extraction,Architecture and Engineering,4339.76,71938.56257014627,64213.09453174487,7725.0,Increase
+Extraction,Construction,339.85,30691.128202638778,64213.09453174487,-33522.0,Decrease
+Extraction,"Education, Training, and Library",205.52,37672.26891328721,64213.09453174487,-26541.0,Decrease
+Extraction,Extraction,7209.1,64213.09453174487,64213.09453174487,0.0,No Change
+Extraction,"Management in Business, Science, and Arts",4314.78,62485.65115532022,64213.09453174487,-1727.0,No Change
+Extraction,Production,1647.34,26529.458098435443,64213.09453174487,-37684.0,Decrease
+Extraction,Sales and Related,9348.42,29024.82888719898,64213.09453174487,-35188.0,Decrease
+Extraction,Transportation and Material Moving,343.22,24873.64778481961,64213.09453174487,-39339.0,Decrease
+"Farming, Fisheries, and Forestry",Architecture and Engineering,3348.71,71938.56257014627,19847.58208962702,52091.0,Increase
+"Farming, Fisheries, and Forestry","Arts, Design, Entertainment, Sports, and Media",3388.09,35491.781115393365,19847.58208962702,15644.0,Increase
+"Farming, Fisheries, and Forestry",Building and Grounds Cleaning and Maintenance,40584.770000000004,16541.311755234532,19847.58208962702,-3306.0,Decrease
+"Farming, Fisheries, and Forestry",Business Operations Specialists,3009.7799999999997,53833.96588586904,19847.58208962702,33986.0,Increase
+"Farming, Fisheries, and Forestry",Community and Social Services,4417.01,39850.66848668825,19847.58208962702,20003.0,Increase
+"Farming, Fisheries, and Forestry",Computer and Mathematical,4863.27,69872.77205397128,19847.58208962702,50025.0,Increase
+"Farming, Fisheries, and Forestry",Construction,17024.65,30691.128202638778,19847.58208962702,10844.0,Increase
+"Farming, Fisheries, and Forestry","Education, Training, and Library",10621.02,37672.26891328721,19847.58208962702,17825.0,Increase
+"Farming, Fisheries, and Forestry","Farming, Fisheries, and Forestry",236136.05,19847.58208962702,19847.58208962702,0.0,No Change
+"Farming, Fisheries, and Forestry",Financial Specialists,3711.5299999999997,54318.52958380157,19847.58208962702,34471.0,Increase
+"Farming, Fisheries, and Forestry",Food Preparation and Serving,41811.84,16827.164562152913,19847.58208962702,-3020.0,Decrease
+"Farming, Fisheries, and Forestry",Healthcare Practitioners and Technicians,8758.56,56817.99482099063,19847.58208962702,36970.0,Increase
+"Farming, Fisheries, and Forestry",Healthcare Support,27288.2,24383.338823273294,19847.58208962702,4536.0,Increase
+"Farming, Fisheries, and Forestry","Installation, Maintenance, and Repair",2571.48,39996.60866560612,19847.58208962702,20149.0,Increase
+"Farming, Fisheries, and Forestry",Legal,2592.98,75285.82779871544,19847.58208962702,55438.0,Increase
+"Farming, Fisheries, and Forestry","Life, Physical, and Social Science",5221.06,55559.879669785005,19847.58208962702,35712.0,Increase
+"Farming, Fisheries, and Forestry","Management in Business, Science, and Arts",34208.979999999996,62485.65115532022,19847.58208962702,42638.0,Increase
+"Farming, Fisheries, and Forestry",Office and Administrative Support,54522.88,31322.552919183527,19847.58208962702,11475.0,Increase
+"Farming, Fisheries, and Forestry",Personal Care and Service,25111.22,16956.35344887663,19847.58208962702,-2891.0,No Change
+"Farming, Fisheries, and Forestry",Production,21380.35,26529.458098435443,19847.58208962702,6682.0,Increase
+"Farming, Fisheries, and Forestry",Protective Service,4410.28,38816.46470880795,19847.58208962702,18969.0,Increase
+"Farming, Fisheries, and Forestry",Sales and Related,63051.31,29024.82888719898,19847.58208962702,9177.0,Increase
+"Farming, Fisheries, and Forestry",Technicians,1953.49,40079.6350091884,19847.58208962702,20232.0,Increase
+"Farming, Fisheries, and Forestry",Transportation and Material Moving,37601.85,24873.64778481961,19847.58208962702,5026.0,Increase
+Financial Specialists,"Arts, Design, Entertainment, Sports, and Media",18186.87,35491.781115393365,54318.52958380157,-18827.0,Decrease
+Financial Specialists,Building and Grounds Cleaning and Maintenance,11295.460000000001,16541.311755234532,54318.52958380157,-37777.0,Decrease
+Financial Specialists,Business Operations Specialists,140478.29,53833.96588586904,54318.52958380157,-485.0,No Change
+Financial Specialists,Community and Social Services,13871.76,39850.66848668825,54318.52958380157,-14468.0,Decrease
+Financial Specialists,Computer and Mathematical,23332.37,69872.77205397128,54318.52958380157,15554.0,Increase
+Financial Specialists,Construction,4093.91,30691.128202638778,54318.52958380157,-23627.0,Decrease
+Financial Specialists,"Education, Training, and Library",49626.76,37672.26891328721,54318.52958380157,-16646.0,Decrease
+Financial Specialists,"Farming, Fisheries, and Forestry",5005.37,19847.58208962702,54318.52958380157,-34471.0,Decrease
+Financial Specialists,Financial Specialists,1601540.11,54318.52958380157,54318.52958380157,0.0,No Change
+Financial Specialists,Food Preparation and Serving,34220.04,16827.164562152913,54318.52958380157,-37491.0,Decrease
+Financial Specialists,Healthcare Practitioners and Technicians,81200.94,56817.99482099063,54318.52958380157,2499.0,No Change
+Financial Specialists,Healthcare Support,18203.8,24383.338823273294,54318.52958380157,-29935.0,Decrease
+Financial Specialists,Legal,40738.369999999995,75285.82779871544,54318.52958380157,20967.0,Increase
+Financial Specialists,"Life, Physical, and Social Science",23568.24,55559.879669785005,54318.52958380157,1241.0,No Change
+Financial Specialists,"Management in Business, Science, and Arts",204457.37,62485.65115532022,54318.52958380157,8167.0,Increase
+Financial Specialists,Office and Administrative Support,465960.47,31322.552919183527,54318.52958380157,-22996.0,Decrease
+Financial Specialists,Personal Care and Service,33037.83,16956.35344887663,54318.52958380157,-37362.0,Decrease
+Financial Specialists,Production,7295.58,26529.458098435443,54318.52958380157,-27789.0,Decrease
+Financial Specialists,Protective Service,27622.19,38816.46470880795,54318.52958380157,-15502.0,Decrease
+Financial Specialists,Sales and Related,150274.03,29024.82888719898,54318.52958380157,-25294.0,Decrease
+Financial Specialists,Transportation and Material Moving,7810.38,24873.64778481961,54318.52958380157,-29445.0,Decrease
+Food Preparation and Serving,Architecture and Engineering,30623.760000000002,71938.56257014627,16827.164562152913,55111.0,Increase
+Food Preparation and Serving,"Arts, Design, Entertainment, Sports, and Media",173246.85,35491.781115393365,16827.164562152913,18665.0,Increase
+Food Preparation and Serving,Building and Grounds Cleaning and Maintenance,448588.23,16541.311755234532,16827.164562152913,-286.0,No Change
+Food Preparation and Serving,Business Operations Specialists,115895.81,53833.96588586904,16827.164562152913,37007.0,Increase
+Food Preparation and Serving,Community and Social Services,132962.45,39850.66848668825,16827.164562152913,23024.0,Increase
+Food Preparation and Serving,Computer and Mathematical,36786.2,69872.77205397128,16827.164562152913,53046.0,Increase
+Food Preparation and Serving,Construction,46962.89,30691.128202638778,16827.164562152913,13864.0,Increase
+Food Preparation and Serving,"Education, Training, and Library",497355.55,37672.26891328721,16827.164562152913,20845.0,Increase
+Food Preparation and Serving,"Farming, Fisheries, and Forestry",43372.44,19847.58208962702,16827.164562152913,3020.0,Increase
+Food Preparation and Serving,Financial Specialists,89611.98,54318.52958380157,16827.164562152913,37491.0,Increase
+Food Preparation and Serving,Food Preparation and Serving,7205158.62,16827.164562152913,16827.164562152913,0.0,No Change
+Food Preparation and Serving,Healthcare Practitioners and Technicians,329179.41,56817.99482099063,16827.164562152913,39991.0,Increase
+Food Preparation and Serving,Healthcare Support,505028.84,24383.338823273294,16827.164562152913,7556.0,Increase
+Food Preparation and Serving,"Installation, Maintenance, and Repair",21435.35,39996.60866560612,16827.164562152913,23169.0,Increase
+Food Preparation and Serving,Legal,39963.35,75285.82779871544,16827.164562152913,58459.0,Increase
+Food Preparation and Serving,"Life, Physical, and Social Science",60142.42,55559.879669785005,16827.164562152913,38733.0,Increase
+Food Preparation and Serving,"Management in Business, Science, and Arts",401900.44,62485.65115532022,16827.164562152913,45658.0,Increase
+Food Preparation and Serving,Office and Administrative Support,1787484.23,31322.552919183527,16827.164562152913,14495.0,Increase
+Food Preparation and Serving,Personal Care and Service,764071.56,16956.35344887663,16827.164562152913,129.0,No Change
+Food Preparation and Serving,Production,426212.52999999997,26529.458098435443,16827.164562152913,9702.0,Increase
+Food Preparation and Serving,Protective Service,89109.92,38816.46470880795,16827.164562152913,21989.0,Increase
+Food Preparation and Serving,Sales and Related,1721071.13,29024.82888719898,16827.164562152913,12198.0,Increase
+Food Preparation and Serving,Technicians,18659.35,40079.6350091884,16827.164562152913,23252.0,Increase
+Food Preparation and Serving,Transportation and Material Moving,302701.72000000003,24873.64778481961,16827.164562152913,8046.0,Increase
+Healthcare Practitioners and Technicians,Architecture and Engineering,10078.98,71938.56257014627,56817.99482099063,15121.0,Increase
+Healthcare Practitioners and Technicians,"Arts, Design, Entertainment, Sports, and Media",44055.83,35491.781115393365,56817.99482099063,-21326.0,Decrease
+Healthcare Practitioners and Technicians,Building and Grounds Cleaning and Maintenance,33312.72,16541.311755234532,56817.99482099063,-40277.0,Decrease
+Healthcare Practitioners and Technicians,Business Operations Specialists,59996.64,53833.96588586904,56817.99482099063,-2984.0,No Change
+Healthcare Practitioners and Technicians,Community and Social Services,141629.49,39850.66848668825,56817.99482099063,-16967.0,Decrease
+Healthcare Practitioners and Technicians,Computer and Mathematical,14720.92,69872.77205397128,56817.99482099063,13055.0,Increase
+Healthcare Practitioners and Technicians,Construction,4170.63,30691.128202638778,56817.99482099063,-26127.0,Decrease
+Healthcare Practitioners and Technicians,"Education, Training, and Library",264000.61,37672.26891328721,56817.99482099063,-19146.0,Decrease
+Healthcare Practitioners and Technicians,Extraction,302.86,64213.09453174487,56817.99482099063,7395.0,Increase
+Healthcare Practitioners and Technicians,"Farming, Fisheries, and Forestry",4325.34,19847.58208962702,56817.99482099063,-36970.0,Decrease
+Healthcare Practitioners and Technicians,Financial Specialists,23994.45,54318.52958380157,56817.99482099063,-2499.0,No Change
+Healthcare Practitioners and Technicians,Food Preparation and Serving,61032.0,16827.164562152913,56817.99482099063,-39991.0,Decrease
+Healthcare Practitioners and Technicians,Healthcare Practitioners and Technicians,8539727.84,56817.99482099063,56817.99482099063,0.0,No Change
+Healthcare Practitioners and Technicians,Healthcare Support,275940.74,24383.338823273294,56817.99482099063,-32435.0,Decrease
+Healthcare Practitioners and Technicians,"Installation, Maintenance, and Repair",2779.34,39996.60866560612,56817.99482099063,-16821.0,Decrease
+Healthcare Practitioners and Technicians,Legal,135931.11,75285.82779871544,56817.99482099063,18468.0,Increase
+Healthcare Practitioners and Technicians,"Life, Physical, and Social Science",79531.41,55559.879669785005,56817.99482099063,-1258.0,No Change
+Healthcare Practitioners and Technicians,"Management in Business, Science, and Arts",251456.41,62485.65115532022,56817.99482099063,5668.0,Increase
+Healthcare Practitioners and Technicians,Office and Administrative Support,456164.91,31322.552919183527,56817.99482099063,-25495.0,Decrease
+Healthcare Practitioners and Technicians,Personal Care and Service,149771.74,16956.35344887663,56817.99482099063,-39862.0,Decrease
+Healthcare Practitioners and Technicians,Production,61620.97,26529.458098435443,56817.99482099063,-30289.0,Decrease
+Healthcare Practitioners and Technicians,Protective Service,18602.84,38816.46470880795,56817.99482099063,-18002.0,Decrease
+Healthcare Practitioners and Technicians,Sales and Related,195529.43,29024.82888719898,56817.99482099063,-27793.0,Decrease
+Healthcare Practitioners and Technicians,Technicians,4261.48,40079.6350091884,56817.99482099063,-16738.0,Decrease
+Healthcare Practitioners and Technicians,Transportation and Material Moving,38276.18,24873.64778481961,56817.99482099063,-31944.0,Decrease
+Healthcare Support,Architecture and Engineering,1641.43,71938.56257014627,24383.338823273294,47555.0,Increase
+Healthcare Support,"Arts, Design, Entertainment, Sports, and Media",17375.03,35491.781115393365,24383.338823273294,11108.0,Increase
+Healthcare Support,Building and Grounds Cleaning and Maintenance,115833.89,16541.311755234532,24383.338823273294,-7842.0,Decrease
+Healthcare Support,Business Operations Specialists,36906.71,53833.96588586904,24383.338823273294,29451.0,Increase
+Healthcare Support,Community and Social Services,56737.44,39850.66848668825,24383.338823273294,15467.0,Increase
+Healthcare Support,Computer and Mathematical,9018.96,69872.77205397128,24383.338823273294,45489.0,Increase
+Healthcare Support,Construction,6358.98,30691.128202638778,24383.338823273294,6308.0,Increase
+Healthcare Support,"Education, Training, and Library",158630.14,37672.26891328721,24383.338823273294,13289.0,Increase
+Healthcare Support,"Farming, Fisheries, and Forestry",5930.23,19847.58208962702,24383.338823273294,-4536.0,Decrease
+Healthcare Support,Financial Specialists,33040.73,54318.52958380157,24383.338823273294,29935.0,Increase
+Healthcare Support,Food Preparation and Serving,304860.78,16827.164562152913,24383.338823273294,-7556.0,Decrease
+Healthcare Support,Healthcare Practitioners and Technicians,466157.65,56817.99482099063,24383.338823273294,32435.0,Increase
+Healthcare Support,Healthcare Support,3334292.45,24383.338823273294,24383.338823273294,0.0,No Change
+Healthcare Support,"Installation, Maintenance, and Repair",9467.99,39996.60866560612,24383.338823273294,15613.0,Increase
+Healthcare Support,Legal,19393.01,75285.82779871544,24383.338823273294,50902.0,Increase
+Healthcare Support,"Life, Physical, and Social Science",21156.27,55559.879669785005,24383.338823273294,31177.0,Increase
+Healthcare Support,"Management in Business, Science, and Arts",105052.44,62485.65115532022,24383.338823273294,38102.0,Increase
+Healthcare Support,Office and Administrative Support,544919.02,31322.552919183527,24383.338823273294,6939.0,Increase
+Healthcare Support,Personal Care and Service,715097.25,16956.35344887663,24383.338823273294,-7427.0,Decrease
+Healthcare Support,Production,100810.42,26529.458098435443,24383.338823273294,2146.0,No Change
+Healthcare Support,Protective Service,31974.53,38816.46470880795,24383.338823273294,14433.0,Increase
+Healthcare Support,Sales and Related,343122.52,29024.82888719898,24383.338823273294,4641.0,Increase
+Healthcare Support,Technicians,5279.55,40079.6350091884,24383.338823273294,15696.0,Increase
+Healthcare Support,Transportation and Material Moving,98978.67,24873.64778481961,24383.338823273294,490.0,No Change
+"Installation, Maintenance, and Repair",Architecture and Engineering,1706.66,71938.56257014627,39996.60866560612,31942.0,Increase
+"Installation, Maintenance, and Repair","Arts, Design, Entertainment, Sports, and Media",7209.35,35491.781115393365,39996.60866560612,-4505.0,Decrease
+"Installation, Maintenance, and Repair",Building and Grounds Cleaning and Maintenance,14588.38,16541.311755234532,39996.60866560612,-23455.0,Decrease
+"Installation, Maintenance, and Repair",Business Operations Specialists,4180.9,53833.96588586904,39996.60866560612,13837.0,Increase
+"Installation, Maintenance, and Repair",Community and Social Services,2209.59,39850.66848668825,39996.60866560612,-146.0,No Change
+"Installation, Maintenance, and Repair",Computer and Mathematical,28473.12,69872.77205397128,39996.60866560612,29876.0,Increase
+"Installation, Maintenance, and Repair",Construction,9070.54,30691.128202638778,39996.60866560612,-9305.0,Decrease
+"Installation, Maintenance, and Repair","Education, Training, and Library",24563.09,37672.26891328721,39996.60866560612,-2324.0,No Change
+"Installation, Maintenance, and Repair","Farming, Fisheries, and Forestry",1321.92,19847.58208962702,39996.60866560612,-20149.0,Decrease
+"Installation, Maintenance, and Repair",Food Preparation and Serving,11823.98,16827.164562152913,39996.60866560612,-23169.0,Decrease
+"Installation, Maintenance, and Repair",Healthcare Practitioners and Technicians,9965.17,56817.99482099063,39996.60866560612,16821.0,Increase
+"Installation, Maintenance, and Repair",Healthcare Support,1228.28,24383.338823273294,39996.60866560612,-15613.0,Decrease
+"Installation, Maintenance, and Repair","Installation, Maintenance, and Repair",441642.9,39996.60866560612,39996.60866560612,0.0,No Change
+"Installation, Maintenance, and Repair","Life, Physical, and Social Science",4825.99,55559.879669785005,39996.60866560612,15563.0,Increase
+"Installation, Maintenance, and Repair","Management in Business, Science, and Arts",15689.019999999999,62485.65115532022,39996.60866560612,22489.0,Increase
+"Installation, Maintenance, and Repair",Office and Administrative Support,55513.31,31322.552919183527,39996.60866560612,-8674.0,Decrease
+"Installation, Maintenance, and Repair",Personal Care and Service,9100.38,16956.35344887663,39996.60866560612,-23040.0,Decrease
+"Installation, Maintenance, and Repair",Production,20682.3,26529.458098435443,39996.60866560612,-13467.0,Decrease
+"Installation, Maintenance, and Repair",Protective Service,3262.8,38816.46470880795,39996.60866560612,-1180.0,No Change
+"Installation, Maintenance, and Repair",Sales and Related,22675.39,29024.82888719898,39996.60866560612,-10972.0,Decrease
+"Installation, Maintenance, and Repair",Transportation and Material Moving,19769.73,24873.64778481961,39996.60866560612,-15123.0,Decrease
+Legal,Architecture and Engineering,1673.53,71938.56257014627,75285.82779871544,-3347.0,Decrease
+Legal,"Arts, Design, Entertainment, Sports, and Media",9152.400000000001,35491.781115393365,75285.82779871544,-39794.0,Decrease
+Legal,Business Operations Specialists,10777.23,53833.96588586904,75285.82779871544,-21452.0,Decrease
+Legal,Community and Social Services,13599.51,39850.66848668825,75285.82779871544,-35435.0,Decrease
+Legal,Computer and Mathematical,8765.35,69872.77205397128,75285.82779871544,-5413.0,Decrease
+Legal,"Education, Training, and Library",68413.86,37672.26891328721,75285.82779871544,-37614.0,Decrease
+Legal,Financial Specialists,10674.1,54318.52958380157,75285.82779871544,-20967.0,Decrease
+Legal,Food Preparation and Serving,25519.54,16827.164562152913,75285.82779871544,-58459.0,Decrease
+Legal,Healthcare Practitioners and Technicians,31055.0,56817.99482099063,75285.82779871544,-18468.0,Decrease
+Legal,Healthcare Support,9290.49,24383.338823273294,75285.82779871544,-50902.0,Decrease
+Legal,"Installation, Maintenance, and Repair",9014.119999999999,39996.60866560612,75285.82779871544,-35289.0,Decrease
+Legal,Legal,335800.22,75285.82779871544,75285.82779871544,0.0,No Change
+Legal,"Life, Physical, and Social Science",34092.61,55559.879669785005,75285.82779871544,-19726.0,Decrease
+Legal,"Management in Business, Science, and Arts",105622.1,62485.65115532022,75285.82779871544,-12800.0,Decrease
+Legal,Office and Administrative Support,160566.54,31322.552919183527,75285.82779871544,-43963.0,Decrease
+Legal,Personal Care and Service,37543.02,16956.35344887663,75285.82779871544,-58329.0,Decrease
+Legal,Production,15107.54,26529.458098435443,75285.82779871544,-48756.0,Decrease
+Legal,Protective Service,5916.93,38816.46470880795,75285.82779871544,-36469.0,Decrease
+Legal,Sales and Related,61318.3,29024.82888719898,75285.82779871544,-46261.0,Decrease
+Legal,Technicians,6213.36,40079.6350091884,75285.82779871544,-35206.0,Decrease
+"Life, Physical, and Social Science",Architecture and Engineering,8864.99,71938.56257014627,55559.879669785005,16379.0,Increase
+"Life, Physical, and Social Science","Arts, Design, Entertainment, Sports, and Media",27932.88,35491.781115393365,55559.879669785005,-20068.0,Decrease
+"Life, Physical, and Social Science",Building and Grounds Cleaning and Maintenance,5529.92,16541.311755234532,55559.879669785005,-39019.0,Decrease
+"Life, Physical, and Social Science",Business Operations Specialists,56444.09,53833.96588586904,55559.879669785005,-1726.0,No Change
+"Life, Physical, and Social Science",Community and Social Services,34736.590000000004,39850.66848668825,55559.879669785005,-15709.0,Decrease
+"Life, Physical, and Social Science",Computer and Mathematical,54034.1,69872.77205397128,55559.879669785005,14313.0,Increase
+"Life, Physical, and Social Science",Construction,5771.96,30691.128202638778,55559.879669785005,-24869.0,Decrease
+"Life, Physical, and Social Science","Education, Training, and Library",154763.17,37672.26891328721,55559.879669785005,-17888.0,Decrease
+"Life, Physical, and Social Science","Farming, Fisheries, and Forestry",8675.38,19847.58208962702,55559.879669785005,-35712.0,Decrease
+"Life, Physical, and Social Science",Financial Specialists,7607.8099999999995,54318.52958380157,55559.879669785005,-1241.0,No Change
+"Life, Physical, and Social Science",Food Preparation and Serving,13870.56,16827.164562152913,55559.879669785005,-38733.0,Decrease
+"Life, Physical, and Social Science",Healthcare Practitioners and Technicians,52215.770000000004,56817.99482099063,55559.879669785005,1258.0,No Change
+"Life, Physical, and Social Science",Healthcare Support,8567.48,24383.338823273294,55559.879669785005,-31177.0,Decrease
+"Life, Physical, and Social Science","Installation, Maintenance, and Repair",372.13,39996.60866560612,55559.879669785005,-15563.0,Decrease
+"Life, Physical, and Social Science",Legal,83195.97,75285.82779871544,55559.879669785005,19726.0,Increase
+"Life, Physical, and Social Science","Life, Physical, and Social Science",784996.56,55559.879669785005,55559.879669785005,0.0,No Change
+"Life, Physical, and Social Science","Management in Business, Science, and Arts",131446.15,62485.65115532022,55559.879669785005,6926.0,Increase
+"Life, Physical, and Social Science",Office and Administrative Support,87054.02,31322.552919183527,55559.879669785005,-24237.0,Decrease
+"Life, Physical, and Social Science",Personal Care and Service,26305.46,16956.35344887663,55559.879669785005,-38604.0,Decrease
+"Life, Physical, and Social Science",Production,23088.079999999998,26529.458098435443,55559.879669785005,-29030.0,Decrease
+"Life, Physical, and Social Science",Protective Service,11894.54,38816.46470880795,55559.879669785005,-16743.0,Decrease
+"Life, Physical, and Social Science",Sales and Related,45182.33,29024.82888719898,55559.879669785005,-26535.0,Decrease
+"Life, Physical, and Social Science",Technicians,8483.01,40079.6350091884,55559.879669785005,-15480.0,Decrease
+"Life, Physical, and Social Science",Transportation and Material Moving,6425.39,24873.64778481961,55559.879669785005,-30686.0,Decrease
+"Management in Business, Science, and Arts",Architecture and Engineering,40339.36,71938.56257014627,62485.65115532022,9453.0,Increase
+"Management in Business, Science, and Arts","Arts, Design, Entertainment, Sports, and Media",223679.27,35491.781115393365,62485.65115532022,-26994.0,Decrease
+"Management in Business, Science, and Arts",Building and Grounds Cleaning and Maintenance,83006.32,16541.311755234532,62485.65115532022,-45944.0,Decrease
+"Management in Business, Science, and Arts",Business Operations Specialists,652401.26,53833.96588586904,62485.65115532022,-8652.0,Decrease
+"Management in Business, Science, and Arts",Community and Social Services,189930.12,39850.66848668825,62485.65115532022,-22635.0,Decrease
+"Management in Business, Science, and Arts",Computer and Mathematical,141997.65,69872.77205397128,62485.65115532022,7387.0,Increase
+"Management in Business, Science, and Arts",Construction,31257.4,30691.128202638778,62485.65115532022,-31795.0,Decrease
+"Management in Business, Science, and Arts","Education, Training, and Library",706891.32,37672.26891328721,62485.65115532022,-24813.0,Decrease
+"Management in Business, Science, and Arts",Extraction,287.0,64213.09453174487,62485.65115532022,1727.0,No Change
+"Management in Business, Science, and Arts","Farming, Fisheries, and Forestry",3487.46,19847.58208962702,62485.65115532022,-42638.0,Decrease
+"Management in Business, Science, and Arts",Financial Specialists,207372.44,54318.52958380157,62485.65115532022,-8167.0,Decrease
+"Management in Business, Science, and Arts",Food Preparation and Serving,361897.25,16827.164562152913,62485.65115532022,-45658.0,Decrease
+"Management in Business, Science, and Arts",Healthcare Practitioners and Technicians,434934.69,56817.99482099063,62485.65115532022,-5668.0,Decrease
+"Management in Business, Science, and Arts",Healthcare Support,108451.89,24383.338823273294,62485.65115532022,-38102.0,Decrease
+"Management in Business, Science, and Arts","Installation, Maintenance, and Repair",18259.16,39996.60866560612,62485.65115532022,-22489.0,Decrease
+"Management in Business, Science, and Arts",Legal,236265.16,75285.82779871544,62485.65115532022,12800.0,Increase
+"Management in Business, Science, and Arts","Life, Physical, and Social Science",91344.27,55559.879669785005,62485.65115532022,-6926.0,Decrease
+"Management in Business, Science, and Arts","Management in Business, Science, and Arts",8489498.11,62485.65115532022,62485.65115532022,0.0,No Change
+"Management in Business, Science, and Arts",Office and Administrative Support,1339558.76,31322.552919183527,62485.65115532022,-31163.0,Decrease
+"Management in Business, Science, and Arts",Personal Care and Service,306975.12,16956.35344887663,62485.65115532022,-45529.0,Decrease
+"Management in Business, Science, and Arts",Production,233666.13,26529.458098435443,62485.65115532022,-35956.0,Decrease
+"Management in Business, Science, and Arts",Protective Service,81955.37,38816.46470880795,62485.65115532022,-23669.0,Decrease
+"Management in Business, Science, and Arts",Sales and Related,976326.96,29024.82888719898,62485.65115532022,-33461.0,Decrease
+"Management in Business, Science, and Arts",Technicians,6287.34,40079.6350091884,62485.65115532022,-22406.0,Decrease
+"Management in Business, Science, and Arts",Transportation and Material Moving,110449.87,24873.64778481961,62485.65115532022,-37612.0,Decrease
+Military,Architecture and Engineering,683.71,71938.56257014627,39018.074920269406,32920.0,Increase
+Military,"Arts, Design, Entertainment, Sports, and Media",7279.26,35491.781115393365,39018.074920269406,-3526.0,Decrease
+Military,Building and Grounds Cleaning and Maintenance,9980.11,16541.311755234532,39018.074920269406,-22477.0,Decrease
+Military,Business Operations Specialists,25050.239999999998,53833.96588586904,39018.074920269406,14816.0,Increase
+Military,Computer and Mathematical,4778.65,69872.77205397128,39018.074920269406,30855.0,Increase
+Military,Construction,287.5,30691.128202638778,39018.074920269406,-8327.0,Decrease
+Military,"Education, Training, and Library",18090.8,37672.26891328721,39018.074920269406,-1346.0,No Change
+Military,Extraction,1430.6,64213.09453174487,39018.074920269406,25195.0,Increase
+Military,Financial Specialists,4634.3099999999995,54318.52958380157,39018.074920269406,15300.0,Increase
+Military,Food Preparation and Serving,10338.52,16827.164562152913,39018.074920269406,-22191.0,Decrease
+Military,Healthcare Practitioners and Technicians,20227.17,56817.99482099063,39018.074920269406,17800.0,Increase
+Military,Healthcare Support,3168.68,24383.338823273294,39018.074920269406,-14635.0,Decrease
+Military,"Installation, Maintenance, and Repair",7442.92,39996.60866560612,39018.074920269406,979.0,No Change
+Military,Legal,2416.34,75285.82779871544,39018.074920269406,36268.0,Increase
+Military,"Life, Physical, and Social Science",2036.07,55559.879669785005,39018.074920269406,16542.0,Increase
+Military,"Management in Business, Science, and Arts",41072.14,62485.65115532022,39018.074920269406,23468.0,Increase
+Military,Office and Administrative Support,39308.98,31322.552919183527,39018.074920269406,-7696.0,Decrease
+Military,Personal Care and Service,4677.74,16956.35344887663,39018.074920269406,-22062.0,Decrease
+Military,Production,8500.49,26529.458098435443,39018.074920269406,-12489.0,Decrease
+Military,Protective Service,31763.81,38816.46470880795,39018.074920269406,-202.0,No Change
+Military,Sales and Related,27608.86,29024.82888719898,39018.074920269406,-9993.0,Decrease
+Military,Transportation and Material Moving,5362.389999999999,24873.64778481961,39018.074920269406,-14144.0,Decrease
+No Occupation,Architecture and Engineering,96566.03,71938.56257014627,0.0,71939.0,Increase
+No Occupation,"Arts, Design, Entertainment, Sports, and Media",974900.0,35491.781115393365,0.0,35492.0,Increase
+No Occupation,Building and Grounds Cleaning and Maintenance,3120450.98,16541.311755234532,0.0,16541.0,Increase
+No Occupation,Business Operations Specialists,730939.86,53833.96588586904,0.0,53834.0,Increase
+No Occupation,Community and Social Services,630474.4,39850.66848668825,0.0,39851.0,Increase
+No Occupation,Computer and Mathematical,299343.93,69872.77205397128,0.0,69873.0,Increase
+No Occupation,Construction,352046.9,30691.128202638778,0.0,30691.0,Increase
+No Occupation,"Education, Training, and Library",3306978.22,37672.26891328721,0.0,37672.0,Increase
+No Occupation,Extraction,1678.86,64213.09453174487,0.0,64213.0,Increase
+No Occupation,"Farming, Fisheries, and Forestry",427013.58,19847.58208962702,0.0,19848.0,Increase
+No Occupation,Financial Specialists,682548.05,54318.52958380157,0.0,54319.0,Increase
+No Occupation,Food Preparation and Serving,5083399.51,16827.164562152913,0.0,16827.0,Increase
+No Occupation,Healthcare Practitioners and Technicians,2057601.99,56817.99482099063,0.0,56818.0,Increase
+No Occupation,Healthcare Support,2170507.46,24383.338823273294,0.0,24383.0,Increase
+No Occupation,"Installation, Maintenance, and Repair",144255.55,39996.60866560612,0.0,39997.0,Increase
+No Occupation,Legal,289420.02,75285.82779871544,0.0,75286.0,Increase
+No Occupation,"Life, Physical, and Social Science",292607.5,55559.879669785005,0.0,55560.0,Increase
+No Occupation,"Management in Business, Science, and Arts",3052918.88,62485.65115532022,0.0,62486.0,Increase
+No Occupation,Office and Administrative Support,8371272.87,31322.552919183527,0.0,31323.0,Increase
+No Occupation,Personal Care and Service,4637433.56,16956.35344887663,0.0,16956.0,Increase
+No Occupation,Production,1932174.02,26529.458098435443,0.0,26529.0,Increase
+No Occupation,Protective Service,313201.76,38816.46470880795,0.0,38816.0,Increase
+No Occupation,Sales and Related,7211426.47,29024.82888719898,0.0,29025.0,Increase
+No Occupation,Technicians,33976.02,40079.6350091884,0.0,40080.0,Increase
+No Occupation,Transportation and Material Moving,1476683.11,24873.64778481961,0.0,24874.0,Increase
+Office and Administrative Support,Architecture and Engineering,43736.39,71938.56257014627,31322.552919183527,40616.0,Increase
+Office and Administrative Support,"Arts, Design, Entertainment, Sports, and Media",328930.7,35491.781115393365,31322.552919183527,4169.0,Increase
+Office and Administrative Support,Building and Grounds Cleaning and Maintenance,288082.86,16541.311755234532,31322.552919183527,-14781.0,Decrease
+Office and Administrative Support,Business Operations Specialists,715609.93,53833.96588586904,31322.552919183527,22511.0,Increase
+Office and Administrative Support,Community and Social Services,302357.54,39850.66848668825,31322.552919183527,8528.0,Increase
+Office and Administrative Support,Computer and Mathematical,193137.31,69872.77205397128,31322.552919183527,38550.0,Increase
+Office and Administrative Support,Construction,54778.04,30691.128202638778,31322.552919183527,-631.0,No Change
+Office and Administrative Support,"Education, Training, and Library",1058574.9,37672.26891328721,31322.552919183527,6350.0,Increase
+Office and Administrative Support,Extraction,4103.5599999999995,64213.09453174487,31322.552919183527,32891.0,Increase
+Office and Administrative Support,"Farming, Fisheries, and Forestry",34105.36,19847.58208962702,31322.552919183527,-11475.0,Decrease
+Office and Administrative Support,Financial Specialists,598428.24,54318.52958380157,31322.552919183527,22996.0,Increase
+Office and Administrative Support,Food Preparation and Serving,1067361.14,16827.164562152913,31322.552919183527,-14495.0,Decrease
+Office and Administrative Support,Healthcare Practitioners and Technicians,618433.8,56817.99482099063,31322.552919183527,25495.0,Increase
+Office and Administrative Support,Healthcare Support,547078.96,24383.338823273294,31322.552919183527,-6939.0,Decrease
+Office and Administrative Support,"Installation, Maintenance, and Repair",54146.94,39996.60866560612,31322.552919183527,8674.0,Increase
+Office and Administrative Support,Legal,299106.53,75285.82779871544,31322.552919183527,43963.0,Increase
+Office and Administrative Support,"Life, Physical, and Social Science",115466.23,55559.879669785005,31322.552919183527,24237.0,Increase
+Office and Administrative Support,"Management in Business, Science, and Arts",1257315.79,62485.65115532022,31322.552919183527,31163.0,Increase
+Office and Administrative Support,Office and Administrative Support,22265464.95,31322.552919183527,31322.552919183527,0.0,No Change
+Office and Administrative Support,Personal Care and Service,786712.59,16956.35344887663,31322.552919183527,-14366.0,Decrease
+Office and Administrative Support,Production,441321.91,26529.458098435443,31322.552919183527,-4793.0,Decrease
+Office and Administrative Support,Protective Service,147962.46,38816.46470880795,31322.552919183527,7494.0,Increase
+Office and Administrative Support,Sales and Related,2383384.13,29024.82888719898,31322.552919183527,-2298.0,No Change
+Office and Administrative Support,Technicians,16792.0,40079.6350091884,31322.552919183527,8757.0,Increase
+Office and Administrative Support,Transportation and Material Moving,653099.16,24873.64778481961,31322.552919183527,-6449.0,Decrease
+Personal Care and Service,Architecture and Engineering,16796.83,71938.56257014627,16956.35344887663,54982.0,Increase
+Personal Care and Service,"Arts, Design, Entertainment, Sports, and Media",110279.85,35491.781115393365,16956.35344887663,18535.0,Increase
+Personal Care and Service,Building and Grounds Cleaning and Maintenance,179869.92,16541.311755234532,16956.35344887663,-415.0,No Change
+Personal Care and Service,Business Operations Specialists,43100.71,53833.96588586904,16956.35344887663,36878.0,Increase
+Personal Care and Service,Community and Social Services,154563.96,39850.66848668825,16956.35344887663,22894.0,Increase
+Personal Care and Service,Computer and Mathematical,36574.85,69872.77205397128,16956.35344887663,52916.0,Increase
+Personal Care and Service,Construction,33861.66,30691.128202638778,16956.35344887663,13735.0,Increase
+Personal Care and Service,"Education, Training, and Library",644495.93,37672.26891328721,16956.35344887663,20716.0,Increase
+Personal Care and Service,"Farming, Fisheries, and Forestry",17922.65,19847.58208962702,16956.35344887663,2891.0,No Change
+Personal Care and Service,Financial Specialists,45140.9,54318.52958380157,16956.35344887663,37362.0,Increase
+Personal Care and Service,Food Preparation and Serving,541949.2,16827.164562152913,16956.35344887663,-129.0,No Change
+Personal Care and Service,Healthcare Practitioners and Technicians,189958.08000000002,56817.99482099063,16956.35344887663,39862.0,Increase
+Personal Care and Service,Healthcare Support,868805.0,24383.338823273294,16956.35344887663,7427.0,Increase
+Personal Care and Service,"Installation, Maintenance, and Repair",21934.02,39996.60866560612,16956.35344887663,23040.0,Increase
+Personal Care and Service,Legal,40791.92,75285.82779871544,16956.35344887663,58329.0,Increase
+Personal Care and Service,"Life, Physical, and Social Science",33679.94,55559.879669785005,16956.35344887663,38604.0,Increase
+Personal Care and Service,"Management in Business, Science, and Arts",311108.93,62485.65115532022,16956.35344887663,45529.0,Increase
+Personal Care and Service,Office and Administrative Support,912467.31,31322.552919183527,16956.35344887663,14366.0,Increase
+Personal Care and Service,Personal Care and Service,6802477.16,16956.35344887663,16956.35344887663,0.0,No Change
+Personal Care and Service,Production,157410.6,26529.458098435443,16956.35344887663,9573.0,Increase
+Personal Care and Service,Protective Service,61379.99,38816.46470880795,16956.35344887663,21860.0,Increase
+Personal Care and Service,Sales and Related,830159.7,29024.82888719898,16956.35344887663,12068.0,Increase
+Personal Care and Service,Technicians,5941.05,40079.6350091884,16956.35344887663,23123.0,Increase
+Personal Care and Service,Transportation and Material Moving,200677.13,24873.64778481961,16956.35344887663,7917.0,Increase
+Production,Architecture and Engineering,8215.349999999999,71938.56257014627,26529.458098435443,45409.0,Increase
+Production,"Arts, Design, Entertainment, Sports, and Media",39172.93,35491.781115393365,26529.458098435443,8962.0,Increase
+Production,Building and Grounds Cleaning and Maintenance,228537.59,16541.311755234532,26529.458098435443,-9988.0,Decrease
+Production,Business Operations Specialists,58666.94,53833.96588586904,26529.458098435443,27305.0,Increase
+Production,Community and Social Services,12767.13,39850.66848668825,26529.458098435443,13321.0,Increase
+Production,Computer and Mathematical,19598.44,69872.77205397128,26529.458098435443,43343.0,Increase
+Production,Construction,44927.85,30691.128202638778,26529.458098435443,4162.0,Increase
+Production,"Education, Training, and Library",143729.07,37672.26891328721,26529.458098435443,11143.0,Increase
+Production,"Farming, Fisheries, and Forestry",37164.97,19847.58208962702,26529.458098435443,-6682.0,Decrease
+Production,Financial Specialists,20657.11,54318.52958380157,26529.458098435443,27789.0,Increase
+Production,Food Preparation and Serving,376346.31,16827.164562152913,26529.458098435443,-9702.0,Decrease
+Production,Healthcare Practitioners and Technicians,96823.29,56817.99482099063,26529.458098435443,30289.0,Increase
+Production,Healthcare Support,174704.32,24383.338823273294,26529.458098435443,-2146.0,No Change
+Production,"Installation, Maintenance, and Repair",13229.23,39996.60866560612,26529.458098435443,13467.0,Increase
+Production,Legal,28228.77,75285.82779871544,26529.458098435443,48756.0,Increase
+Production,"Life, Physical, and Social Science",33628.62,55559.879669785005,26529.458098435443,29030.0,Increase
+Production,"Management in Business, Science, and Arts",147101.84,62485.65115532022,26529.458098435443,35956.0,Increase
+Production,Office and Administrative Support,529708.56,31322.552919183527,26529.458098435443,4793.0,Increase
+Production,Personal Care and Service,179488.0,16956.35344887663,26529.458098435443,-9573.0,Decrease
+Production,Production,5869120.17,26529.458098435443,26529.458098435443,0.0,No Change
+Production,Protective Service,29786.69,38816.46470880795,26529.458098435443,12287.0,Increase
+Production,Sales and Related,413628.81,29024.82888719898,26529.458098435443,2495.0,No Change
+Production,Technicians,28041.75,40079.6350091884,26529.458098435443,13550.0,Increase
+Production,Transportation and Material Moving,322405.13,24873.64778481961,26529.458098435443,-1656.0,No Change
+Protective Service,Architecture and Engineering,1702.0,71938.56257014627,38816.46470880795,33122.0,Increase
+Protective Service,"Arts, Design, Entertainment, Sports, and Media",10451.33,35491.781115393365,38816.46470880795,-3325.0,Decrease
+Protective Service,Building and Grounds Cleaning and Maintenance,27430.65,16541.311755234532,38816.46470880795,-22275.0,Decrease
+Protective Service,Business Operations Specialists,22586.19,53833.96588586904,38816.46470880795,15018.0,Increase
+Protective Service,Community and Social Services,30000.149999999998,39850.66848668825,38816.46470880795,1034.0,No Change
+Protective Service,Computer and Mathematical,6697.51,69872.77205397128,38816.46470880795,31056.0,Increase
+Protective Service,Construction,4871.21,30691.128202638778,38816.46470880795,-8125.0,Decrease
+Protective Service,"Education, Training, and Library",53117.06,37672.26891328721,38816.46470880795,-1144.0,No Change
+Protective Service,"Farming, Fisheries, and Forestry",3453.03,19847.58208962702,38816.46470880795,-18969.0,Decrease
+Protective Service,Financial Specialists,27995.83,54318.52958380157,38816.46470880795,15502.0,Increase
+Protective Service,Food Preparation and Serving,61860.57,16827.164562152913,38816.46470880795,-21989.0,Decrease
+Protective Service,Healthcare Practitioners and Technicians,25686.510000000002,56817.99482099063,38816.46470880795,18002.0,Increase
+Protective Service,Healthcare Support,48236.01,24383.338823273294,38816.46470880795,-14433.0,Decrease
+Protective Service,Legal,13452.51,75285.82779871544,38816.46470880795,36469.0,Increase
+Protective Service,"Life, Physical, and Social Science",8467.69,55559.879669785005,38816.46470880795,16743.0,Increase
+Protective Service,"Management in Business, Science, and Arts",58575.55,62485.65115532022,38816.46470880795,23669.0,Increase
+Protective Service,Office and Administrative Support,159767.93,31322.552919183527,38816.46470880795,-7494.0,Decrease
+Protective Service,Personal Care and Service,83887.12,16956.35344887663,38816.46470880795,-21860.0,Decrease
+Protective Service,Production,43880.88,26529.458098435443,38816.46470880795,-12287.0,Decrease
+Protective Service,Protective Service,721002.86,38816.46470880795,38816.46470880795,0.0,No Change
+Protective Service,Sales and Related,110588.95,29024.82888719898,38816.46470880795,-9792.0,Decrease
+Protective Service,Transportation and Material Moving,49794.04,24873.64778481961,38816.46470880795,-13943.0,Decrease
+Sales and Related,Architecture and Engineering,26632.75,71938.56257014627,29024.82888719898,42914.0,Increase
+Sales and Related,"Arts, Design, Entertainment, Sports, and Media",287199.82,35491.781115393365,29024.82888719898,6467.0,Increase
+Sales and Related,Building and Grounds Cleaning and Maintenance,377112.15,16541.311755234532,29024.82888719898,-12484.0,Decrease
+Sales and Related,Business Operations Specialists,397736.5,53833.96588586904,29024.82888719898,24809.0,Increase
+Sales and Related,Community and Social Services,168969.35,39850.66848668825,29024.82888719898,10826.0,Increase
+Sales and Related,Computer and Mathematical,61677.75,69872.77205397128,29024.82888719898,40848.0,Increase
+Sales and Related,Construction,64999.53,30691.128202638778,29024.82888719898,1666.0,No Change
+Sales and Related,"Education, Training, and Library",781502.14,37672.26891328721,29024.82888719898,8647.0,Increase
+Sales and Related,"Farming, Fisheries, and Forestry",49351.409999999996,19847.58208962702,29024.82888719898,-9177.0,Decrease
+Sales and Related,Financial Specialists,220724.71,54318.52958380157,29024.82888719898,25294.0,Increase
+Sales and Related,Food Preparation and Serving,1678927.26,16827.164562152913,29024.82888719898,-12198.0,Decrease
+Sales and Related,Healthcare Practitioners and Technicians,502660.4,56817.99482099063,29024.82888719898,27793.0,Increase
+Sales and Related,Healthcare Support,608904.79,24383.338823273294,29024.82888719898,-4641.0,Decrease
+Sales and Related,"Installation, Maintenance, and Repair",36782.06,39996.60866560612,29024.82888719898,10972.0,Increase
+Sales and Related,Legal,146703.12,75285.82779871544,29024.82888719898,46261.0,Increase
+Sales and Related,"Life, Physical, and Social Science",74658.87,55559.879669785005,29024.82888719898,26535.0,Increase
+Sales and Related,"Management in Business, Science, and Arts",903901.39,62485.65115532022,29024.82888719898,33461.0,Increase
+Sales and Related,Office and Administrative Support,3469539.15,31322.552919183527,29024.82888719898,2298.0,No Change
+Sales and Related,Personal Care and Service,956431.66,16956.35344887663,29024.82888719898,-12068.0,Decrease
+Sales and Related,Production,521044.32,26529.458098435443,29024.82888719898,-2495.0,No Change
+Sales and Related,Protective Service,115678.04000000001,38816.46470880795,29024.82888719898,9792.0,Increase
+Sales and Related,Sales and Related,18601631.76,29024.82888719898,29024.82888719898,0.0,No Change
+Sales and Related,Technicians,19379.7,40079.6350091884,29024.82888719898,11055.0,Increase
+Sales and Related,Transportation and Material Moving,438560.46,24873.64778481961,29024.82888719898,-4151.0,Decrease
+Technicians,Architecture and Engineering,51092.36,71938.56257014627,40079.6350091884,31859.0,Increase
+Technicians,"Arts, Design, Entertainment, Sports, and Media",5690.110000000001,35491.781115393365,40079.6350091884,-4588.0,Decrease
+Technicians,Building and Grounds Cleaning and Maintenance,3196.39,16541.311755234532,40079.6350091884,-23538.0,Decrease
+Technicians,Computer and Mathematical,5736.87,69872.77205397128,40079.6350091884,29793.0,Increase
+Technicians,"Education, Training, and Library",15963.54,37672.26891328721,40079.6350091884,-2407.0,No Change
+Technicians,"Farming, Fisheries, and Forestry",2015.69,19847.58208962702,40079.6350091884,-20232.0,Decrease
+Technicians,Financial Specialists,6091.2,54318.52958380157,40079.6350091884,14239.0,Increase
+Technicians,Food Preparation and Serving,955.01,16827.164562152913,40079.6350091884,-23252.0,Decrease
+Technicians,Healthcare Practitioners and Technicians,655.97,56817.99482099063,40079.6350091884,16738.0,Increase
+Technicians,Healthcare Support,2152.11,24383.338823273294,40079.6350091884,-15696.0,Decrease
+Technicians,Legal,2020.94,75285.82779871544,40079.6350091884,35206.0,Increase
+Technicians,"Life, Physical, and Social Science",13422.23,55559.879669785005,40079.6350091884,15480.0,Increase
+Technicians,"Management in Business, Science, and Arts",2193.18,62485.65115532022,40079.6350091884,22406.0,Increase
+Technicians,Office and Administrative Support,26162.88,31322.552919183527,40079.6350091884,-8757.0,Decrease
+Technicians,Personal Care and Service,3924.0400000000004,16956.35344887663,40079.6350091884,-23123.0,Decrease
+Technicians,Production,10730.61,26529.458098435443,40079.6350091884,-13550.0,Decrease
+Technicians,Protective Service,7523.5,38816.46470880795,40079.6350091884,-1263.0,No Change
+Technicians,Sales and Related,14091.92,29024.82888719898,40079.6350091884,-11055.0,Decrease
+Technicians,Technicians,15524.98,40079.6350091884,40079.6350091884,0.0,No Change
+Transportation and Material Moving,Architecture and Engineering,3983.73,71938.56257014627,24873.64778481961,47065.0,Increase
+Transportation and Material Moving,"Arts, Design, Entertainment, Sports, and Media",10040.46,35491.781115393365,24873.64778481961,10618.0,Increase
+Transportation and Material Moving,Building and Grounds Cleaning and Maintenance,164042.79,16541.311755234532,24873.64778481961,-8332.0,Decrease
+Transportation and Material Moving,Business Operations Specialists,19057.32,53833.96588586904,24873.64778481961,28960.0,Increase
+Transportation and Material Moving,Community and Social Services,25711.32,39850.66848668825,24873.64778481961,14977.0,Increase
+Transportation and Material Moving,Computer and Mathematical,8400.88,69872.77205397128,24873.64778481961,44999.0,Increase
+Transportation and Material Moving,Construction,26498.2,30691.128202638778,24873.64778481961,5817.0,Increase
+Transportation and Material Moving,"Education, Training, and Library",76402.2,37672.26891328721,24873.64778481961,12799.0,Increase
+Transportation and Material Moving,"Farming, Fisheries, and Forestry",16890.8,19847.58208962702,24873.64778481961,-5026.0,Decrease
+Transportation and Material Moving,Financial Specialists,17952.05,54318.52958380157,24873.64778481961,29445.0,Increase
+Transportation and Material Moving,Food Preparation and Serving,228063.91,16827.164562152913,24873.64778481961,-8046.0,Decrease
+Transportation and Material Moving,Healthcare Practitioners and Technicians,65812.22,56817.99482099063,24873.64778481961,31944.0,Increase
+Transportation and Material Moving,Healthcare Support,66756.65,24383.338823273294,24873.64778481961,-490.0,No Change
+Transportation and Material Moving,"Installation, Maintenance, and Repair",32669.989999999998,39996.60866560612,24873.64778481961,15123.0,Increase
+Transportation and Material Moving,Legal,13055.11,75285.82779871544,24873.64778481961,50412.0,Increase
+Transportation and Material Moving,"Life, Physical, and Social Science",10492.880000000001,55559.879669785005,24873.64778481961,30686.0,Increase
+Transportation and Material Moving,"Management in Business, Science, and Arts",75967.86,62485.65115532022,24873.64778481961,37612.0,Increase
+Transportation and Material Moving,Office and Administrative Support,763897.74,31322.552919183527,24873.64778481961,6449.0,Increase
+Transportation and Material Moving,Personal Care and Service,261429.83,16956.35344887663,24873.64778481961,-7917.0,Decrease
+Transportation and Material Moving,Production,291215.27,26529.458098435443,24873.64778481961,1656.0,No Change
+Transportation and Material Moving,Protective Service,51374.3,38816.46470880795,24873.64778481961,13943.0,Increase
+Transportation and Material Moving,Sales and Related,327740.81,29024.82888719898,24873.64778481961,4151.0,Increase
+Transportation and Material Moving,Technicians,6532.75,40079.6350091884,24873.64778481961,15206.0,Increase
+Transportation and Material Moving,Transportation and Material Moving,3129243.04,24873.64778481961,24873.64778481961,0.0,No Change

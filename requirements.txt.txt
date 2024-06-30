@@ -1,0 +1,8 @@
+matplotlib==3.7.1
+numpy==1.25.2
+pandas==2.0.3
+scipy==1.11.4
+seaborn==0.13.2
+statsmodels==0.14.2
+wquantiles==0.4
+json==2.0.9

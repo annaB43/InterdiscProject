@@ -1,0 +1,37 @@
+[
+    {
+        "Variable": "RACE_GROUP",
+        "Group": "White",
+        "T-statistic": 7747.032210124931,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "RACE_GROUP",
+        "Group": "Black",
+        "T-statistic": 1422.6553668538797,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "RACE_GROUP",
+        "Group": "Asian or Pacific Islander",
+        "T-statistic": 1882.8725569157284,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "RACE_GROUP",
+        "Group": "American Indian/Aleut/Eskimo",
+        "T-statistic": 576.1111821731354,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "RACE_GROUP",
+        "Group": "Multiple Races",
+        "T-statistic": 656.2530945525357,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    }
+]

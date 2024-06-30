@@ -1,0 +1,44 @@
+[
+    {
+        "Variable": "MARST_Label",
+        "Group": "Divorced",
+        "T-statistic": 1618.516168846459,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "MARST_Label",
+        "Group": "Never married/single",
+        "T-statistic": 1475.2133444377569,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "MARST_Label",
+        "Group": "Widowed",
+        "T-statistic": 833.3546005771581,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "MARST_Label",
+        "Group": "Separated",
+        "T-statistic": 1172.9971032645628,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "MARST_Label",
+        "Group": "Married, spouse present",
+        "T-statistic": 7961.096829838706,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "MARST_Label",
+        "Group": "Married, spouse absent",
+        "T-statistic": 521.4766125030822,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    }
+]

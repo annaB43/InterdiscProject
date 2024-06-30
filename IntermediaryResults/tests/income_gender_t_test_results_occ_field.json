@@ -1,0 +1,191 @@
+[
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Education, Training, and Library",
+        "T-statistic": 2593.3277562427565,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Installation, Maintenance, and Repair",
+        "T-statistic": 193.85971444210634,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Sales and Related",
+        "T-statistic": 3920.321164708429,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Office and Administrative Support",
+        "T-statistic": 2002.4479769208087,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Arts, Design, Entertainment, Sports, and Media",
+        "T-statistic": 838.0208423414484,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Healthcare Practitioners and Technicians",
+        "T-statistic": 4000.866139603109,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Construction",
+        "T-statistic": 241.9463132606279,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Transportation and Material Moving",
+        "T-statistic": 1528.5853102284173,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Management in Business, Science, and Arts",
+        "T-statistic": 2578.2541873159817,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Life, Physical, and Social Science",
+        "T-statistic": 801.7407718267309,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Financial Specialists",
+        "T-statistic": 1838.7320783719204,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Protective Service",
+        "T-statistic": 1177.5879530309785,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Business Operations Specialists",
+        "T-statistic": 1266.3033616045884,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Architecture and Engineering",
+        "T-statistic": 563.3745369035482,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Building and Grounds Cleaning and Maintenance",
+        "T-statistic": 1709.3371905571491,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Computer and Mathematical",
+        "T-statistic": 1014.3188583452293,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Food Preparation and Serving",
+        "T-statistic": 1194.7962884816084,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Production",
+        "T-statistic": 2395.6481424819967,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Legal",
+        "T-statistic": 1483.0743068555576,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Personal Care and Service",
+        "T-statistic": 1299.0014981789272,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Healthcare Support",
+        "T-statistic": 716.6001134751627,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Community and Social Services",
+        "T-statistic": 473.3790622759922,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Unknown",
+        "T-statistic": NaN,
+        "P-value": NaN,
+        "Hypothesis Result": "Fail to reject the null hypothesis: There is no significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Farming, Fisheries, and Forestry",
+        "T-statistic": 369.6893795153954,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Extraction",
+        "T-statistic": -11.726412638591702,
+        "P-value": 9.342837552817664e-32,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Technicians",
+        "T-statistic": 532.2511033494598,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    },
+    {
+        "Variable": "OCC_FIELD_LY",
+        "Group": "Military",
+        "T-statistic": 64.33578297039082,
+        "P-value": 0.0,
+        "Hypothesis Result": "Reject the null hypothesis: There is a significant difference in income between genders."
+    }
+]
